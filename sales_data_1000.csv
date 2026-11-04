@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Segment,Region,State,Category,Product,Unit_Price,Quantity,Discount,Sales,Profit,Payment_Mode
+ORD-1001,2024-01-04,Consumer,West,Rajasthan,Office Supplies,Pen Box,272.79,1,0.15,231.87,59.11,Debit Card
+ORD-1002,2024-01-04,Consumer,North,Uttar Pradesh,Technology,Laptop,44175.19,3,0.0,132525.57,16547.3,UPI
+ORD-1003,2024-01-04,Corporate,South,Tamil Nadu,Furniture,Bookshelf,5157.86,2,0.15,8768.36,-61.25,Cash on Delivery
+ORD-1004,2024-01-04,Consumer,North,Uttar Pradesh,Technology,Laptop,49182.1,2,0.1,88527.78,10882.09,Debit Card
+ORD-1005,2024-01-04,Corporate,North,Punjab,Furniture,Sofa,20504.2,1,0.1,18453.78,-73.7,UPI
+ORD-1006,2024-01-05,Consumer,North,Punjab,Technology,Printer,9151.31,1,0.0,9151.31,892.06,Net Banking
+ORD-1007,2024-01-06,Consumer,North,Uttar Pradesh,Office Supplies,Whiteboard,1695.82,4,0.0,6783.28,1656.56,UPI
+ORD-1008,2024-01-06,Consumer,East,West Bengal,Furniture,Sofa,21696.74,2,0.05,41223.81,372.17,Debit Card
+ORD-1009,2024-01-06,Consumer,North,Delhi,Furniture,Study Table,8765.39,2,0.05,16654.24,1369.3,Debit Card
+ORD-1010,2024-01-08,Consumer,South,Tamil Nadu,Office Supplies,File Folder,183.99,2,0.1,331.18,80.11,Debit Card
+ORD-1011,2024-01-09,Consumer,South,Andhra Pradesh,Office Supplies,Notebook Pack,446.27,5,0.0,2231.35,720.05,Debit Card
+ORD-1012,2024-01-09,Home Office,South,Tamil Nadu,Technology,Laptop,46433.57,4,0.0,185734.28,38989.63,UPI
+ORD-1013,2024-01-11,Consumer,West,Gujarat,Furniture,Office Chair,7039.47,1,0.0,7039.47,864.09,UPI
+ORD-1014,2024-01-11,Consumer,North,Uttar Pradesh,Technology,Smartphone,17880.31,1,0.3,12516.22,-1365.46,UPI
+ORD-1015,2024-01-12,Consumer,North,Punjab,Technology,Headphones,2312.81,3,0.3,4856.9,231.48,Net Banking
+ORD-1016,2024-01-14,Consumer,North,Delhi,Furniture,Bookshelf,5511.96,5,0.05,26181.81,2185.01,UPI
+ORD-1017,2024-01-14,Consumer,East,Odisha,Office Supplies,Notebook Pack,408.34,4,0.1,1470.02,420.65,UPI
+ORD-1018,2024-01-15,Consumer,South,Tamil Nadu,Technology,Laptop,48997.29,2,0.05,93094.85,18122.0,UPI
+ORD-1019,2024-01-16,Home Office,West,Gujarat,Furniture,Sofa,24177.22,1,0.1,21759.5,96.73,Credit Card
+ORD-1020,2024-01-16,Corporate,North,Punjab,Office Supplies,Whiteboard,1655.12,5,0.15,7034.26,424.58,UPI
+ORD-1021,2024-01-17,Corporate,South,Tamil Nadu,Office Supplies,Notebook Pack,467.42,3,0.0,1402.26,422.68,Credit Card
+ORD-1022,2024-01-17,Consumer,West,Gujarat,Technology,Smartphone,18123.76,5,0.0,90618.8,14706.75,Debit Card
+ORD-1023,2024-01-17,Consumer,East,Odisha,Technology,Smartphone,17837.62,1,0.0,17837.62,2099.99,Cash on Delivery
+ORD-1024,2024-01-18,Corporate,East,West Bengal,Technology,Smartwatch,5592.87,1,0.0,5592.87,1093.73,Cash on Delivery
+ORD-1025,2024-01-19,Consumer,North,Uttar Pradesh,Office Supplies,File Folder,176.96,3,0.0,530.88,169.02,UPI
+ORD-1026,2024-01-19,Consumer,North,Uttar Pradesh,Office Supplies,Pen Box,273.94,5,0.0,1369.7,583.54,Credit Card
+ORD-1027,2024-01-22,Home Office,East,Bihar,Furniture,Study Table,7673.22,5,0.0,38366.1,3927.45,Debit Card
+ORD-1028,2024-01-23,Corporate,South,Kerala,Technology,Smartwatch,6440.91,3,0.1,17390.46,3032.52,Cash on Delivery
+ORD-1029,2024-01-24,Home Office,West,Gujarat,Office Supplies,Stapler,299.48,4,0.1,1078.13,238.86,Cash on Delivery
+ORD-1030,2024-01-24,Home Office,South,Andhra Pradesh,Technology,Headphones,2602.4,5,0.1,11710.8,2845.96,Credit Card
+ORD-1031,2024-01-26,Corporate,West,Rajasthan,Technology,Printer,8272.58,1,0.1,7445.32,-11.04,Cash on Delivery
+ORD-1032,2024-01-26,Corporate,North,Delhi,Office Supplies,Notebook Pack,471.96,4,0.05,1793.45,658.35,Cash on Delivery
+ORD-1033,2024-01-27,Corporate,South,Tamil Nadu,Technology,Smartphone,17613.13,2,0.1,31703.63,1234.85,UPI
+ORD-1034,2024-01-27,Consumer,West,Maharashtra,Furniture,Sofa,23543.23,4,0.15,80046.98,-7501.73,UPI
+ORD-1035,2024-01-28,Home Office,North,Uttar Pradesh,Furniture,Study Table,7764.39,4,0.1,27951.8,2432.44,Debit Card
+ORD-1036,2024-01-28,Corporate,North,Delhi,Furniture,Bookshelf,5854.43,1,0.1,5268.99,148.28,Debit Card
+ORD-1037,2024-01-30,Consumer,North,Delhi,Office Supplies,File Folder,196.37,2,0.1,353.47,100.25,Net Banking
+ORD-1038,2024-01-31,Consumer,North,Punjab,Furniture,Sofa,22173.8,2,0.0,44347.6,3456.57,UPI
+ORD-1039,2024-01-31,Consumer,South,Karnataka,Technology,Smartwatch,6518.19,5,0.05,30961.4,6910.14,UPI
+ORD-1040,2024-02-01,Consumer,West,Gujarat,Furniture,Office Chair,7092.56,4,0.05,26951.73,1873.07,Credit Card
+ORD-1041,2024-02-01,Consumer,East,West Bengal,Furniture,Sofa,20713.96,1,0.0,20713.96,2195.25,Debit Card
+ORD-1042,2024-02-01,Corporate,South,Andhra Pradesh,Office Supplies,Notebook Pack,432.24,5,0.05,2053.14,545.3,Credit Card
+ORD-1043,2024-02-02,Home Office,West,Gujarat,Furniture,Office Chair,7088.81,1,0.0,7088.81,891.02,Credit Card
+ORD-1044,2024-02-02,Home Office,South,Andhra Pradesh,Office Supplies,Notebook Pack,416.62,3,0.1,1124.87,305.93,Credit Card
+ORD-1045,2024-02-02,Corporate,East,Bihar,Technology,Laptop,45138.28,2,0.05,85762.73,12300.39,UPI
+ORD-1046,2024-02-05,Consumer,South,Tamil Nadu,Office Supplies,Pen Box,234.45,2,0.15,398.56,117.85,Cash on Delivery
+ORD-1047,2024-02-06,Corporate,South,Andhra Pradesh,Office Supplies,Pen Box,239.77,4,0.0,959.08,426.39,Credit Card
+ORD-1048,2024-02-07,Consumer,East,Bihar,Furniture,Study Table,8529.41,4,0.05,32411.76,487.98,UPI
+ORD-1049,2024-02-07,Consumer,East,West Bengal,Technology,Smartwatch,6022.06,4,0.1,21679.42,3250.88,Debit Card
+ORD-1050,2024-02-08,Corporate,East,West Bengal,Office Supplies,Whiteboard,1890.48,2,0.2,3024.77,274.73,UPI
+ORD-1051,2024-02-08,Corporate,South,Andhra Pradesh,Technology,Smartphone,19205.8,1,0.05,18245.51,1940.9,UPI
+ORD-1052,2024-02-09,Consumer,West,Gujarat,Technology,Smartphone,18377.37,4,0.0,73509.48,11726.64,Credit Card
+ORD-1053,2024-02-10,Corporate,East,Bihar,Technology,Headphones,2556.07,4,0.2,8179.42,978.92,Debit Card
+ORD-1054,2024-02-11,Consumer,West,Gujarat,Office Supplies,Pen Box,242.71,4,0.0,970.84,412.57,Cash on Delivery
+ORD-1055,2024-02-12,Corporate,North,Punjab,Furniture,Office Chair,6856.74,1,0.2,5485.39,-114.78,Credit Card
+ORD-1056,2024-02-14,Home Office,West,Rajasthan,Furniture,Sofa,22511.75,2,0.05,42772.32,-1846.0,Credit Card
+ORD-1057,2024-02-16,Consumer,North,Uttar Pradesh,Office Supplies,Notebook Pack,468.73,2,0.0,937.46,335.29,UPI
+ORD-1058,2024-02-17,Consumer,South,Tamil Nadu,Office Supplies,Whiteboard,1627.29,3,0.0,4881.87,990.56,Credit Card
+ORD-1059,2024-02-18,Consumer,North,Uttar Pradesh,Office Supplies,File Folder,166.38,2,0.0,332.76,78.76,Cash on Delivery
+ORD-1060,2024-02-19,Consumer,North,Delhi,Office Supplies,Whiteboard,1762.07,5,0.0,8810.35,2778.48,Cash on Delivery
+ORD-1061,2024-02-19,Corporate,West,Gujarat,Technology,Printer,8141.92,2,0.0,16283.84,2245.68,Credit Card
+ORD-1062,2024-02-21,Consumer,East,Bihar,Furniture,Bookshelf,5924.22,3,0.1,15995.39,-99.97,UPI
+ORD-1063,2024-02-22,Consumer,South,Kerala,Office Supplies,Pen Box,231.46,5,0.05,1099.43,436.08,Net Banking
+ORD-1064,2024-02-25,Home Office,West,Maharashtra,Office Supplies,Whiteboard,1707.91,2,0.2,2732.66,208.44,Debit Card
+ORD-1065,2024-02-27,Home Office,East,West Bengal,Technology,Printer,9527.41,2,0.15,16196.6,-452.01,Credit Card
+ORD-1066,2024-02-27,Consumer,West,Rajasthan,Technology,Smartphone,16448.9,1,0.1,14804.01,846.82,Cash on Delivery
+ORD-1067,2024-02-29,Corporate,East,Odisha,Office Supplies,Pen Box,228.36,4,0.0,913.44,361.37,Debit Card
+ORD-1068,2024-03-01,Consumer,North,Delhi,Technology,Headphones,2330.93,1,0.05,2214.38,625.75,UPI
+ORD-1069,2024-03-02,Consumer,South,Kerala,Technology,Laptop,40752.63,5,0.0,203763.15,42449.91,Debit Card
+ORD-1070,2024-03-02,Consumer,South,Andhra Pradesh,Furniture,Study Table,7843.79,5,0.2,31375.16,-2047.2,Cash on Delivery
+ORD-1071,2024-03-02,Home Office,North,Delhi,Office Supplies,Notebook Pack,406.75,2,0.05,772.82,235.86,Net Banking
+ORD-1072,2024-03-03,Corporate,West,Maharashtra,Office Supplies,Whiteboard,1753.32,5,0.1,7889.94,1453.3,Cash on Delivery
+ORD-1073,2024-03-03,Consumer,South,Andhra Pradesh,Technology,Smartphone,19465.57,1,0.0,19465.57,2005.48,Credit Card
+ORD-1074,2024-03-03,Corporate,South,Tamil Nadu,Technology,Printer,9106.78,5,0.2,36427.12,-1332.12,Credit Card
+ORD-1075,2024-03-04,Consumer,East,Odisha,Technology,Laptop,44034.62,5,0.2,176138.48,4091.0,UPI
+ORD-1076,2024-03-05,Corporate,South,Tamil Nadu,Technology,Smartwatch,5811.5,3,0.1,15691.05,2523.53,Net Banking
+ORD-1077,2024-03-06,Consumer,North,Punjab,Technology,Smartwatch,6419.75,1,0.1,5777.78,875.44,Debit Card
+ORD-1078,2024-03-06,Consumer,West,Gujarat,Furniture,Sofa,21779.01,1,0.0,21779.01,1750.39,Debit Card
+ORD-1079,2024-03-06,Consumer,West,Gujarat,Office Supplies,Stapler,325.26,5,0.05,1544.98,362.9,Credit Card
+ORD-1080,2024-03-07,Consumer,South,Tamil Nadu,Technology,Smartphone,16756.86,4,0.05,63676.07,8065.33,Debit Card
+ORD-1081,2024-03-07,Corporate,East,Odisha,Technology,Laptop,43132.21,3,0.15,109987.14,2279.72,Debit Card
+ORD-1082,2024-03-07,Home Office,South,Tamil Nadu,Technology,Printer,8299.64,4,0.05,31538.63,3026.83,Credit Card
+ORD-1083,2024-03-07,Home Office,North,Punjab,Office Supplies,Notebook Pack,422.0,2,0.0,844.0,283.87,Debit Card
+ORD-1084,2024-03-08,Corporate,South,Andhra Pradesh,Furniture,Bookshelf,4955.22,5,0.15,21059.69,1135.7,UPI
+ORD-1085,2024-03-09,Corporate,North,Punjab,Technology,Headphones,2262.39,1,0.2,1809.91,152.79,UPI
+ORD-1086,2024-03-09,Consumer,North,Delhi,Office Supplies,Whiteboard,1853.8,4,0.05,7044.44,1370.18,Net Banking
+ORD-1087,2024-03-09,Consumer,South,Kerala,Furniture,Bookshelf,5885.3,2,0.05,11182.07,722.21,Cash on Delivery
+ORD-1088,2024-03-09,Consumer,West,Rajasthan,Office Supplies,Notebook Pack,471.49,5,0.3,1650.21,194.07,Credit Card
+ORD-1089,2024-03-10,Corporate,North,Uttar Pradesh,Office Supplies,Stapler,316.55,4,0.2,1012.96,124.46,Cash on Delivery
+ORD-1090,2024-03-10,Consumer,West,Rajasthan,Office Supplies,File Folder,180.38,1,0.0,180.38,68.02,Credit Card
+ORD-1091,2024-03-10,Corporate,South,Andhra Pradesh,Technology,Printer,8772.94,1,0.1,7895.65,179.78,Cash on Delivery
+ORD-1092,2024-03-10,Corporate,South,Tamil Nadu,Office Supplies,Pen Box,255.2,3,0.05,727.32,248.71,UPI
+ORD-1093,2024-03-10,Corporate,North,Punjab,Furniture,Sofa,20130.39,4,0.1,72469.4,3939.51,UPI
+ORD-1094,2024-03-11,Consumer,North,Delhi,Technology,Smartwatch,5428.51,5,0.15,23071.17,1087.11,Debit Card
+ORD-1095,2024-03-11,Consumer,South,Karnataka,Furniture,Study Table,8287.24,1,0.0,8287.24,565.62,UPI
+ORD-1096,2024-03-13,Consumer,North,Delhi,Furniture,Sofa,23402.11,1,0.2,18721.69,-1833.17,UPI
+ORD-1097,2024-03-13,Corporate,North,Uttar Pradesh,Technology,Laptop,46134.44,2,0.05,87655.44,11439.15,Credit Card
+ORD-1098,2024-03-15,Consumer,East,West Bengal,Furniture,Study Table,8370.68,2,0.15,14230.16,-725.87,UPI
+ORD-1099,2024-03-16,Consumer,South,Andhra Pradesh,Office Supplies,Pen Box,244.07,1,0.3,170.85,33.52,Cash on Delivery
+ORD-1100,2024-03-17,Consumer,West,Maharashtra,Office Supplies,File Folder,170.1,5,0.05,807.97,228.57,UPI
+ORD-1101,2024-03-18,Home Office,East,West Bengal,Technology,Smartphone,19626.94,5,0.0,98134.7,15153.93,Credit Card
+ORD-1102,2024-03-18,Corporate,South,Andhra Pradesh,Technology,Laptop,42813.18,5,0.05,203362.6,29971.26,UPI
+ORD-1103,2024-03-18,Consumer,South,Andhra Pradesh,Furniture,Bookshelf,4992.26,3,0.3,10483.75,-1244.6,Debit Card
+ORD-1104,2024-03-18,Consumer,West,Maharashtra,Technology,Laptop,46667.84,1,0.0,46667.84,9514.25,Debit Card
+ORD-1105,2024-03-19,Consumer,South,Andhra Pradesh,Furniture,Sofa,21217.15,4,0.1,76381.74,-1419.88,Credit Card
+ORD-1106,2024-03-20,Consumer,South,Tamil Nadu,Office Supplies,Notebook Pack,480.88,3,0.15,1226.24,282.19,Net Banking
+ORD-1107,2024-03-20,Home Office,West,Rajasthan,Office Supplies,File Folder,186.19,3,0.05,530.64,160.75,UPI
+ORD-1108,2024-03-21,Home Office,South,Kerala,Technology,Headphones,2728.61,3,0.05,7776.54,2147.3,UPI
+ORD-1109,2024-03-24,Corporate,South,Andhra Pradesh,Technology,Printer,8299.3,1,0.0,8299.3,1420.64,Cash on Delivery
+ORD-1110,2024-03-24,Corporate,West,Rajasthan,Furniture,Study Table,8011.72,5,0.05,38055.67,2477.45,Debit Card
+ORD-1111,2024-03-24,Corporate,South,Tamil Nadu,Technology,Smartphone,17265.79,4,0.1,62156.84,534.99,UPI
+ORD-1112,2024-03-25,Consumer,North,Punjab,Furniture,Sofa,20457.85,1,0.1,18412.06,-499.38,UPI
+ORD-1113,2024-03-25,Consumer,South,Kerala,Technology,Headphones,2252.0,5,0.0,11260.0,2842.38,UPI
+ORD-1114,2024-03-26,Consumer,West,Gujarat,Technology,Headphones,2478.67,3,0.2,5948.81,488.84,UPI
+ORD-1115,2024-03-27,Consumer,West,Maharashtra,Office Supplies,Notebook Pack,417.83,5,0.1,1880.24,577.51,UPI
+ORD-1116,2024-03-27,Consumer,East,Bihar,Furniture,Office Chair,5858.82,2,0.15,9959.99,426.09,Credit Card
+ORD-1117,2024-03-27,Consumer,South,Andhra Pradesh,Technology,Laptop,44190.27,4,0.0,176761.08,28896.1,Debit Card
+ORD-1118,2024-03-27,Corporate,South,Andhra Pradesh,Technology,Headphones,2734.89,1,0.3,1914.42,68.99,UPI
+ORD-1119,2024-03-28,Consumer,West,Rajasthan,Office Supplies,Stapler,278.15,5,0.0,1390.75,425.62,UPI
+ORD-1120,2024-03-28,Home Office,South,Tamil Nadu,Office Supplies,File Folder,190.5,5,0.1,857.25,181.71,UPI
+ORD-1121,2024-03-28,Corporate,South,Kerala,Furniture,Bookshelf,5254.33,1,0.05,4991.61,433.89,Cash on Delivery
+ORD-1122,2024-03-29,Home Office,West,Maharashtra,Office Supplies,Stapler,320.98,1,0.3,224.69,7.37,Debit Card
+ORD-1123,2024-03-30,Corporate,South,Kerala,Furniture,Study Table,8690.74,4,0.05,33024.81,779.68,Credit Card
+ORD-1124,2024-03-30,Home Office,South,Karnataka,Furniture,Office Chair,6806.08,1,0.05,6465.78,661.34,Cash on Delivery
+ORD-1125,2024-03-30,Consumer,South,Karnataka,Office Supplies,Notebook Pack,425.36,2,0.2,680.58,104.26,Debit Card
+ORD-1126,2024-03-31,Consumer,North,Delhi,Technology,Printer,8907.85,4,0.1,32068.26,697.08,Credit Card
+ORD-1127,2024-04-01,Consumer,North,Punjab,Technology,Smartphone,16973.35,1,0.0,16973.35,2640.82,Cash on Delivery
+ORD-1128,2024-04-02,Consumer,South,Karnataka,Furniture,Bookshelf,6008.42,3,0.05,17124.0,1524.83,Credit Card
+ORD-1129,2024-04-03,Consumer,South,Andhra Pradesh,Furniture,Office Chair,6313.83,5,0.0,31569.15,5124.69,Credit Card
+ORD-1130,2024-04-03,Corporate,South,Andhra Pradesh,Technology,Smartwatch,5579.93,2,0.2,8927.89,1197.21,UPI
+ORD-1131,2024-04-03,Home Office,North,Punjab,Office Supplies,Pen Box,225.23,5,0.1,1013.53,338.65,Debit Card
+ORD-1132,2024-04-04,Corporate,West,Gujarat,Technology,Headphones,2622.97,3,0.1,7082.02,1171.12,Debit Card
+ORD-1133,2024-04-04,Consumer,West,Rajasthan,Furniture,Bookshelf,5309.69,5,0.1,23893.6,977.42,UPI
+ORD-1134,2024-04-04,Corporate,North,Delhi,Technology,Smartwatch,6399.04,3,0.05,18237.26,3503.69,Debit Card
+ORD-1135,2024-04-05,Consumer,North,Punjab,Technology,Laptop,47013.11,5,0.15,199805.72,14603.48,Cash on Delivery
+ORD-1136,2024-04-06,Corporate,East,West Bengal,Technology,Laptop,42240.47,3,0.2,101377.13,3095.99,Debit Card
+ORD-1137,2024-04-06,Consumer,West,Gujarat,Furniture,Study Table,7997.32,2,0.0,15994.64,1341.85,UPI
+ORD-1138,2024-04-06,Consumer,East,Bihar,Furniture,Study Table,8468.93,5,0.15,35992.95,-1525.59,Credit Card
+ORD-1139,2024-04-07,Consumer,North,Uttar Pradesh,Office Supplies,File Folder,195.97,5,0.05,930.86,242.67,UPI
+ORD-1140,2024-04-08,Corporate,South,Kerala,Technology,Smartphone,18225.73,1,0.15,15491.87,651.76,UPI
+ORD-1141,2024-04-09,Corporate,West,Maharashtra,Furniture,Sofa,23036.49,3,0.3,48376.63,-5615.67,Credit Card
+ORD-1142,2024-04-10,Consumer,West,Rajasthan,Furniture,Office Chair,6060.38,2,0.0,12120.76,1622.6,Debit Card
+ORD-1143,2024-04-11,Home Office,South,Karnataka,Technology,Headphones,2601.22,1,0.15,2211.04,414.51,UPI
+ORD-1144,2024-04-12,Consumer,North,Delhi,Furniture,Office Chair,6074.81,5,0.0,30374.05,3558.02,Net Banking
+ORD-1145,2024-04-12,Home Office,North,Uttar Pradesh,Technology,Smartphone,19447.04,5,0.05,92373.44,15251.49,UPI
+ORD-1146,2024-04-12,Corporate,South,Andhra Pradesh,Technology,Laptop,49134.41,4,0.1,176883.88,20722.97,UPI
+ORD-1147,2024-04-12,Home Office,South,Karnataka,Technology,Smartphone,16335.2,4,0.05,62073.76,3361.81,Net Banking
+ORD-1148,2024-04-12,Home Office,West,Gujarat,Office Supplies,Stapler,295.5,5,0.05,1403.62,287.18,UPI
+ORD-1149,2024-04-12,Consumer,North,Uttar Pradesh,Technology,Laptop,49161.11,5,0.05,233515.27,40810.07,UPI
+ORD-1150,2024-04-12,Home Office,North,Uttar Pradesh,Technology,Smartwatch,6195.04,4,0.3,17346.11,-270.82,Credit Card
+ORD-1151,2024-04-13,Home Office,South,Tamil Nadu,Furniture,Sofa,19916.51,3,0.2,47799.62,-5135.46,UPI
+ORD-1152,2024-04-14,Corporate,North,Punjab,Office Supplies,Whiteboard,1765.6,3,0.3,3707.76,-221.16,Cash on Delivery
+ORD-1153,2024-04-15,Consumer,South,Kerala,Office Supplies,Notebook Pack,468.34,3,0.1,1264.52,301.92,UPI
+ORD-1154,2024-04-15,Consumer,West,Gujarat,Furniture,Study Table,8131.2,2,0.05,15449.28,569.51,Cash on Delivery
+ORD-1155,2024-04-15,Consumer,South,Tamil Nadu,Technology,Laptop,49084.65,3,0.05,139891.25,25487.97,UPI
+ORD-1156,2024-04-15,Consumer,North,Punjab,Technology,Headphones,2628.47,3,0.0,7885.41,2268.27,Credit Card
+ORD-1157,2024-04-16,Corporate,West,Gujarat,Office Supplies,File Folder,163.92,2,0.3,229.49,16.62,Debit Card
+ORD-1158,2024-04-17,Corporate,West,Rajasthan,Furniture,Office Chair,6214.14,1,0.0,6214.14,970.67,Debit Card
+ORD-1159,2024-04-17,Home Office,North,Punjab,Office Supplies,Notebook Pack,437.4,4,0.1,1574.64,360.44,Debit Card
+ORD-1160,2024-04-18,Corporate,North,Delhi,Technology,Smartwatch,6098.4,4,0.0,24393.6,6002.98,Credit Card
+ORD-1161,2024-04-18,Home Office,South,Tamil Nadu,Office Supplies,Stapler,326.52,4,0.15,1110.17,144.11,Credit Card
+ORD-1162,2024-04-20,Corporate,East,West Bengal,Office Supplies,File Folder,186.45,2,0.0,372.9,115.29,UPI
+ORD-1163,2024-04-20,Corporate,East,Odisha,Office Supplies,File Folder,183.32,2,0.0,366.64,110.62,UPI
+ORD-1164,2024-04-21,Corporate,West,Rajasthan,Furniture,Study Table,7647.72,1,0.15,6500.56,-203.1,UPI
+ORD-1165,2024-04-21,Consumer,North,Uttar Pradesh,Office Supplies,Pen Box,271.46,5,0.0,1357.3,515.81,UPI
+ORD-1166,2024-04-22,Corporate,South,Andhra Pradesh,Technology,Smartphone,18996.76,4,0.15,64588.98,-556.87,UPI
+ORD-1167,2024-04-22,Corporate,East,West Bengal,Technology,Headphones,2334.31,4,0.0,9337.24,2727.1,Debit Card
+ORD-1168,2024-04-22,Corporate,West,Maharashtra,Office Supplies,Stapler,290.48,3,0.0,871.44,231.35,Debit Card
+ORD-1169,2024-04-23,Corporate,East,West Bengal,Furniture,Study Table,7517.07,4,0.2,24054.62,-2691.04,UPI
+ORD-1170,2024-04-23,Corporate,North,Punjab,Technology,Smartwatch,5984.53,4,0.1,21544.31,4432.74,UPI
+ORD-1171,2024-04-24,Consumer,North,Delhi,Furniture,Bookshelf,5682.74,2,0.05,10797.21,1017.8,UPI
+ORD-1172,2024-04-25,Home Office,South,Andhra Pradesh,Office Supplies,Stapler,286.82,3,0.15,731.39,110.13,Debit Card
+ORD-1173,2024-04-25,Corporate,South,Andhra Pradesh,Furniture,Office Chair,6892.37,4,0.3,19298.64,-2183.2,Debit Card
+ORD-1174,2024-04-27,Consumer,North,Delhi,Technology,Headphones,2593.77,1,0.0,2593.77,771.24,Credit Card
+ORD-1175,2024-04-27,Corporate,West,Gujarat,Office Supplies,Whiteboard,1884.5,2,0.1,3392.1,387.29,UPI
+ORD-1176,2024-04-27,Consumer,South,Karnataka,Technology,Printer,9875.93,1,0.0,9875.93,1025.95,UPI
+ORD-1177,2024-04-30,Consumer,East,West Bengal,Technology,Laptop,45182.07,4,0.05,171691.87,20801.85,UPI
+ORD-1178,2024-04-30,Corporate,North,Uttar Pradesh,Furniture,Sofa,22463.08,3,0.15,57280.85,-1745.47,Cash on Delivery
+ORD-1179,2024-04-30,Home Office,West,Rajasthan,Office Supplies,Stapler,324.54,1,0.1,292.09,52.17,Credit Card
+ORD-1180,2024-04-30,Home Office,South,Kerala,Office Supplies,File Folder,177.66,3,0.1,479.68,112.54,UPI
+ORD-1181,2024-05-01,Home Office,South,Kerala,Office Supplies,Notebook Pack,449.61,1,0.1,404.65,95.46,Credit Card
+ORD-1182,2024-05-01,Consumer,South,Tamil Nadu,Furniture,Study Table,7559.07,4,0.05,28724.47,1329.82,Debit Card
+ORD-1183,2024-05-01,Consumer,North,Delhi,Office Supplies,Pen Box,242.76,2,0.0,485.52,222.12,Credit Card
+ORD-1184,2024-05-02,Consumer,West,Maharashtra,Office Supplies,File Folder,197.06,4,0.2,630.59,109.14,UPI
+ORD-1185,2024-05-03,Consumer,North,Uttar Pradesh,Furniture,Study Table,7599.72,3,0.05,21659.2,800.66,UPI
+ORD-1186,2024-05-04,Corporate,South,Kerala,Office Supplies,Notebook Pack,417.3,1,0.2,333.84,63.23,UPI
+ORD-1187,2024-05-05,Consumer,North,Delhi,Office Supplies,Whiteboard,1925.7,3,0.15,4910.53,515.31,UPI
+ORD-1188,2024-05-06,Home Office,West,Maharashtra,Office Supplies,File Folder,185.6,1,0.0,185.6,60.52,UPI
+ORD-1189,2024-05-07,Corporate,South,Kerala,Technology,Smartphone,16542.84,1,0.05,15715.7,976.79,Cash on Delivery
+ORD-1190,2024-05-07,Consumer,South,Andhra Pradesh,Technology,Laptop,48750.26,3,0.0,146250.78,29751.5,Cash on Delivery
+ORD-1191,2024-05-07,Home Office,North,Delhi,Office Supplies,File Folder,175.96,3,0.15,448.7,81.35,UPI
+ORD-1192,2024-05-08,Home Office,East,Odisha,Technology,Printer,8454.16,5,0.15,35930.18,1176.97,Debit Card
+ORD-1193,2024-05-09,Consumer,North,Delhi,Office Supplies,Notebook Pack,410.97,2,0.0,821.94,282.58,Debit Card
+ORD-1194,2024-05-09,Consumer,South,Karnataka,Office Supplies,Stapler,313.21,1,0.15,266.23,35.68,Credit Card
+ORD-1195,2024-05-10,Consumer,West,Gujarat,Furniture,Bookshelf,5269.34,1,0.1,4742.41,149.57,Debit Card
+ORD-1196,2024-05-11,Consumer,North,Punjab,Technology,Headphones,2693.88,3,0.1,7273.48,1683.36,Cash on Delivery
+ORD-1197,2024-05-11,Consumer,North,Punjab,Technology,Headphones,2733.38,2,0.05,5193.42,1187.15,Credit Card
+ORD-1198,2024-05-12,Consumer,West,Maharashtra,Technology,Headphones,2381.15,5,0.1,10715.18,1797.75,UPI
+ORD-1199,2024-05-12,Consumer,South,Andhra Pradesh,Furniture,Sofa,23541.9,3,0.3,49437.99,-5541.46,Credit Card
+ORD-1200,2024-05-13,Consumer,South,Andhra Pradesh,Office Supplies,Whiteboard,1967.23,4,0.0,7868.92,2116.2,UPI
+ORD-1201,2024-05-13,Consumer,South,Andhra Pradesh,Office Supplies,Whiteboard,1814.71,4,0.0,7258.84,1579.18,Credit Card
+ORD-1202,2024-05-13,Corporate,West,Gujarat,Technology,Printer,9536.08,1,0.05,9059.28,696.21,UPI
+ORD-1203,2024-05-17,Corporate,West,Maharashtra,Office Supplies,Notebook Pack,481.17,4,0.3,1347.28,167.19,Cash on Delivery
+ORD-1204,2024-05-18,Consumer,South,Tamil Nadu,Technology,Printer,9493.8,4,0.05,36076.44,1162.24,Credit Card
+ORD-1205,2024-05-20,Home Office,West,Gujarat,Office Supplies,Stapler,322.92,1,0.0,322.92,98.88,UPI
+ORD-1206,2024-05-20,Consumer,East,Bihar,Office Supplies,File Folder,170.2,4,0.1,612.72,117.39,Cash on Delivery
+ORD-1207,2024-05-22,Consumer,South,Andhra Pradesh,Office Supplies,Stapler,282.41,4,0.0,1129.64,308.66,Cash on Delivery
+ORD-1208,2024-05-22,Corporate,North,Punjab,Technology,Headphones,2561.31,3,0.0,7683.93,2236.14,Credit Card
+ORD-1209,2024-05-23,Consumer,South,Andhra Pradesh,Office Supplies,File Folder,163.42,3,0.15,416.72,98.0,Debit Card
+ORD-1210,2024-05-23,Consumer,West,Rajasthan,Furniture,Bookshelf,5690.48,2,0.1,10242.86,400.51,Debit Card
+ORD-1211,2024-05-24,Home Office,North,Punjab,Office Supplies,Whiteboard,1939.3,4,0.0,7757.2,1708.38,Credit Card
+ORD-1212,2024-05-25,Corporate,North,Uttar Pradesh,Office Supplies,Whiteboard,1758.69,3,0.0,5276.07,1253.69,Cash on Delivery
+ORD-1213,2024-05-25,Consumer,South,Kerala,Office Supplies,File Folder,163.44,3,0.05,465.8,112.88,UPI
+ORD-1214,2024-05-27,Consumer,East,West Bengal,Office Supplies,File Folder,169.3,3,0.1,457.11,108.19,UPI
+ORD-1215,2024-05-27,Corporate,East,Bihar,Technology,Smartphone,16683.01,1,0.1,15014.71,1192.45,UPI
+ORD-1216,2024-05-27,Consumer,North,Uttar Pradesh,Office Supplies,Pen Box,265.24,2,0.05,503.96,178.58,Credit Card
+ORD-1217,2024-05-27,Consumer,South,Andhra Pradesh,Office Supplies,Whiteboard,1761.94,5,0.1,7928.73,1468.43,Credit Card
+ORD-1218,2024-05-27,Home Office,West,Gujarat,Furniture,Bookshelf,5322.3,3,0.15,13571.87,226.6,Cash on Delivery
+ORD-1219,2024-05-27,Consumer,West,Rajasthan,Furniture,Office Chair,6625.38,2,0.15,11263.15,292.02,Credit Card
+ORD-1220,2024-06-01,Consumer,South,Kerala,Furniture,Sofa,23314.41,1,0.2,18651.53,-1277.72,Cash on Delivery
+ORD-1221,2024-06-05,Home Office,North,Punjab,Furniture,Sofa,22608.18,4,0.3,63302.9,-11450.63,UPI
+ORD-1222,2024-06-07,Corporate,South,Tamil Nadu,Technology,Headphones,2269.43,4,0.05,8623.83,1950.68,Debit Card
+ORD-1223,2024-06-08,Home Office,West,Maharashtra,Office Supplies,Whiteboard,1768.76,2,0.1,3183.77,389.88,Cash on Delivery
+ORD-1224,2024-06-12,Home Office,South,Kerala,Furniture,Office Chair,6863.16,3,0.0,20589.48,3219.71,UPI
+ORD-1225,2024-06-13,Home Office,East,Bihar,Office Supplies,Notebook Pack,484.24,5,0.3,1694.84,278.19,UPI
+ORD-1226,2024-06-14,Consumer,West,Maharashtra,Office Supplies,Notebook Pack,405.83,5,0.0,2029.15,611.59,Credit Card
+ORD-1227,2024-06-14,Corporate,South,Tamil Nadu,Technology,Laptop,40975.26,2,0.05,77852.99,10348.62,Cash on Delivery
+ORD-1228,2024-06-15,Consumer,East,West Bengal,Office Supplies,Pen Box,232.26,1,0.0,232.26,89.57,Debit Card
+ORD-1229,2024-06-16,Corporate,South,Tamil Nadu,Technology,Smartphone,18138.22,3,0.05,51693.93,5307.76,UPI
+ORD-1230,2024-06-17,Consumer,North,Uttar Pradesh,Office Supplies,Whiteboard,1875.57,3,0.15,4782.7,645.21,UPI
+ORD-1231,2024-06-18,Consumer,West,Maharashtra,Technology,Laptop,46680.52,4,0.05,177385.98,23402.39,UPI
+ORD-1232,2024-06-18,Consumer,South,Kerala,Office Supplies,Pen Box,227.65,5,0.1,1024.42,336.73,UPI
+ORD-1233,2024-06-19,Home Office,East,Odisha,Office Supplies,Pen Box,242.48,5,0.0,1212.4,448.13,UPI
+ORD-1234,2024-06-20,Corporate,South,Kerala,Office Supplies,Pen Box,248.29,2,0.0,496.58,224.99,Cash on Delivery
+ORD-1235,2024-06-21,Corporate,West,Maharashtra,Office Supplies,Stapler,286.54,1,0.0,286.54,75.52,UPI
+ORD-1236,2024-06-21,Consumer,South,Tamil Nadu,Technology,Smartphone,17625.81,3,0.2,42301.94,300.6,Debit Card
+ORD-1237,2024-06-21,Consumer,North,Uttar Pradesh,Technology,Laptop,41904.08,1,0.05,39808.88,5868.35,UPI
+ORD-1238,2024-06-21,Consumer,North,Delhi,Technology,Laptop,47776.5,2,0.0,95553.0,17137.31,Debit Card
+ORD-1239,2024-06-23,Home Office,South,Karnataka,Furniture,Office Chair,7121.07,5,0.0,35605.35,3076.35,Debit Card
+ORD-1240,2024-06-23,Home Office,West,Gujarat,Technology,Smartphone,19572.87,5,0.1,88077.91,4572.87,UPI
+ORD-1241,2024-06-23,Consumer,West,Rajasthan,Office Supplies,Notebook Pack,449.68,5,0.05,2135.98,666.03,UPI
+ORD-1242,2024-06-24,Consumer,South,Tamil Nadu,Technology,Laptop,48122.39,3,0.15,122712.09,4549.55,Net Banking
+ORD-1243,2024-06-24,Home Office,East,Odisha,Office Supplies,Pen Box,250.63,2,0.1,451.13,146.21,Debit Card
+ORD-1244,2024-06-24,Consumer,North,Uttar Pradesh,Furniture,Bookshelf,6018.73,2,0.1,10833.71,632.37,UPI
+ORD-1245,2024-06-27,Consumer,North,Delhi,Furniture,Bookshelf,5507.96,1,0.2,4406.37,-158.83,UPI
+ORD-1246,2024-06-27,Consumer,East,West Bengal,Technology,Smartwatch,6161.81,3,0.1,16636.89,3750.53,UPI
+ORD-1247,2024-06-28,Consumer,North,Delhi,Office Supplies,Stapler,314.83,3,0.0,944.49,243.49,Net Banking
+ORD-1248,2024-06-28,Consumer,East,Bihar,Office Supplies,File Folder,174.93,1,0.0,174.93,51.24,UPI
+ORD-1249,2024-06-28,Corporate,South,Tamil Nadu,Office Supplies,Stapler,282.93,3,0.1,763.91,155.29,Cash on Delivery
+ORD-1250,2024-06-29,Consumer,South,Karnataka,Technology,Headphones,2582.45,2,0.05,4906.65,1224.42,Debit Card
+ORD-1251,2024-06-30,Consumer,North,Delhi,Office Supplies,Stapler,313.39,3,0.15,799.14,124.03,UPI
+ORD-1252,2024-07-01,Corporate,West,Maharashtra,Office Supplies,Pen Box,237.34,3,0.05,676.42,251.22,Cash on Delivery
+ORD-1253,2024-07-01,Consumer,North,Punjab,Technology,Laptop,48277.25,5,0.0,241386.25,36149.66,UPI
+ORD-1254,2024-07-01,Consumer,West,Maharashtra,Office Supplies,Notebook Pack,408.31,5,0.05,1939.47,595.26,UPI
+ORD-1255,2024-07-03,Consumer,North,Delhi,Office Supplies,Stapler,274.81,5,0.0,1374.05,402.41,Credit Card
+ORD-1256,2024-07-04,Consumer,West,Maharashtra,Office Supplies,Stapler,282.85,5,0.1,1272.83,304.99,Debit Card
+ORD-1257,2024-07-05,Consumer,West,Rajasthan,Technology,Smartphone,17511.7,1,0.0,17511.7,2785.99,Cash on Delivery
+ORD-1258,2024-07-06,Consumer,West,Maharashtra,Technology,Headphones,2681.86,3,0.0,8045.58,2314.31,Cash on Delivery
+ORD-1259,2024-07-09,Consumer,South,Karnataka,Technology,Smartphone,19699.45,2,0.1,35459.01,999.58,Debit Card
+ORD-1260,2024-07-10,Corporate,South,Karnataka,Office Supplies,File Folder,182.65,4,0.0,730.6,271.07,Debit Card
+ORD-1261,2024-07-11,Consumer,North,Delhi,Office Supplies,Stapler,320.55,4,0.15,1089.87,182.04,Debit Card
+ORD-1262,2024-07-13,Consumer,West,Gujarat,Technology,Smartphone,18457.03,2,0.0,36914.06,4939.62,Credit Card
+ORD-1263,2024-07-13,Home Office,West,Maharashtra,Furniture,Bookshelf,5213.65,1,0.0,5213.65,688.56,Credit Card
+ORD-1264,2024-07-13,Corporate,South,Karnataka,Technology,Smartwatch,5519.41,4,0.0,22077.64,4843.99,UPI
+ORD-1265,2024-07-15,Home Office,South,Andhra Pradesh,Office Supplies,Notebook Pack,431.94,3,0.1,1166.24,372.14,UPI
+ORD-1266,2024-07-16,Corporate,South,Andhra Pradesh,Office Supplies,File Folder,171.27,4,0.05,650.83,180.57,Net Banking
+ORD-1267,2024-07-16,Corporate,South,Tamil Nadu,Furniture,Study Table,7214.12,5,0.3,25249.42,-4653.1,UPI
+ORD-1268,2024-07-16,Consumer,North,Punjab,Office Supplies,Stapler,297.03,2,0.1,534.65,106.27,UPI
+ORD-1269,2024-07-17,Consumer,East,West Bengal,Furniture,Study Table,8522.82,2,0.05,16193.36,1147.95,Credit Card
+ORD-1270,2024-07-19,Consumer,North,Punjab,Technology,Smartwatch,5975.06,1,0.15,5078.8,675.62,Credit Card
+ORD-1271,2024-07-20,Consumer,West,Maharashtra,Office Supplies,File Folder,197.28,2,0.2,315.65,57.92,Debit Card
+ORD-1272,2024-07-20,Corporate,West,Gujarat,Office Supplies,Pen Box,231.34,1,0.0,231.34,105.32,UPI
+ORD-1273,2024-07-21,Consumer,East,Odisha,Furniture,Study Table,7977.88,5,0.05,37894.93,2483.45,UPI
+ORD-1274,2024-07-21,Consumer,East,Odisha,Office Supplies,Whiteboard,1626.54,5,0.1,7319.43,1257.31,Credit Card
+ORD-1275,2024-07-21,Consumer,South,Tamil Nadu,Office Supplies,Whiteboard,1705.09,5,0.0,8525.45,1823.41,Cash on Delivery
+ORD-1276,2024-07-22,Consumer,South,Andhra Pradesh,Technology,Laptop,40887.03,5,0.1,183991.64,22074.4,Debit Card
+ORD-1277,2024-07-23,Consumer,North,Punjab,Furniture,Bookshelf,5967.08,3,0.1,16111.12,242.43,UPI
+ORD-1278,2024-07-24,Corporate,South,Tamil Nadu,Office Supplies,Whiteboard,1928.31,5,0.15,8195.32,698.63,Cash on Delivery
+ORD-1279,2024-07-24,Consumer,West,Rajasthan,Office Supplies,Notebook Pack,493.79,4,0.1,1777.64,511.5,Cash on Delivery
+ORD-1280,2024-07-25,Home Office,South,Tamil Nadu,Furniture,Office Chair,6736.33,4,0.0,26945.32,4925.33,Debit Card
+ORD-1281,2024-07-26,Corporate,North,Uttar Pradesh,Office Supplies,File Folder,178.11,4,0.1,641.2,134.44,UPI
+ORD-1282,2024-07-26,Consumer,West,Rajasthan,Technology,Laptop,45894.4,5,0.15,195051.2,8928.35,UPI
+ORD-1283,2024-07-26,Consumer,West,Maharashtra,Technology,Smartphone,17632.62,3,0.3,37028.5,-2085.56,Net Banking
+ORD-1284,2024-07-28,Home Office,North,Delhi,Office Supplies,Notebook Pack,487.83,5,0.2,1951.32,314.49,UPI
+ORD-1285,2024-07-29,Consumer,North,Uttar Pradesh,Furniture,Sofa,20691.98,4,0.0,82767.92,10990.46,UPI
+ORD-1286,2024-07-29,Consumer,West,Gujarat,Furniture,Study Table,8597.82,2,0.0,17195.64,2310.81,UPI
+ORD-1287,2024-07-29,Corporate,East,Bihar,Office Supplies,Whiteboard,1671.26,4,0.1,6016.54,728.46,UPI
+ORD-1288,2024-07-29,Consumer,South,Kerala,Furniture,Study Table,8420.27,3,0.0,25260.81,3514.73,UPI
+ORD-1289,2024-07-29,Corporate,West,Gujarat,Furniture,Office Chair,7051.07,5,0.0,35255.35,4301.42,UPI
+ORD-1290,2024-07-30,Consumer,South,Kerala,Office Supplies,Stapler,306.71,2,0.2,490.74,63.75,Credit Card
+ORD-1291,2024-07-31,Consumer,South,Karnataka,Furniture,Bookshelf,5060.89,4,0.0,20243.56,2258.35,UPI
+ORD-1292,2024-08-02,Consumer,South,Tamil Nadu,Office Supplies,Notebook Pack,466.43,4,0.05,1772.43,541.78,Credit Card
+ORD-1293,2024-08-03,Corporate,West,Gujarat,Office Supplies,Notebook Pack,473.12,1,0.1,425.81,130.8,UPI
+ORD-1294,2024-08-03,Consumer,West,Rajasthan,Technology,Headphones,2309.51,3,0.0,6928.53,2290.47,UPI
+ORD-1295,2024-08-04,Consumer,South,Tamil Nadu,Office Supplies,Notebook Pack,483.97,2,0.3,677.56,54.34,UPI
+ORD-1296,2024-08-04,Home Office,West,Rajasthan,Technology,Headphones,2309.39,3,0.15,5888.94,1101.45,UPI
+ORD-1297,2024-08-06,Home Office,South,Karnataka,Furniture,Office Chair,7129.87,4,0.1,25667.53,1703.58,Debit Card
+ORD-1298,2024-08-06,Consumer,North,Delhi,Technology,Headphones,2340.76,3,0.05,6671.17,2047.87,UPI
+ORD-1299,2024-08-06,Home Office,North,Punjab,Furniture,Study Table,8231.8,1,0.1,7408.62,-69.29,UPI
+ORD-1300,2024-08-07,Consumer,West,Gujarat,Furniture,Sofa,20545.59,4,0.15,69855.01,-4511.44,Debit Card
+ORD-1301,2024-08-07,Corporate,West,Rajasthan,Office Supplies,Notebook Pack,430.11,3,0.2,1032.26,205.55,Credit Card
+ORD-1302,2024-08-08,Home Office,South,Kerala,Technology,Smartwatch,6561.66,2,0.0,13123.32,3521.52,UPI
+ORD-1303,2024-08-08,Consumer,East,West Bengal,Furniture,Study Table,8053.2,4,0.1,28991.52,551.71,UPI
+ORD-1304,2024-08-08,Corporate,North,Delhi,Office Supplies,Pen Box,237.76,2,0.1,427.97,136.03,Debit Card
+ORD-1305,2024-08-09,Home Office,South,Tamil Nadu,Technology,Smartwatch,5705.67,2,0.2,9129.07,967.35,UPI
+ORD-1306,2024-08-10,Consumer,South,Tamil Nadu,Office Supplies,Pen Box,245.95,5,0.1,1106.78,359.05,Debit Card
+ORD-1307,2024-08-11,Corporate,South,Tamil Nadu,Technology,Headphones,2513.82,1,0.2,2011.06,215.14,UPI
+ORD-1308,2024-08-13,Home Office,South,Andhra Pradesh,Office Supplies,Pen Box,256.01,4,0.1,921.64,316.0,Debit Card
+ORD-1309,2024-08-14,Home Office,West,Gujarat,Office Supplies,Notebook Pack,468.44,2,0.05,890.04,264.6,Credit Card
+ORD-1310,2024-08-14,Home Office,East,Odisha,Furniture,Study Table,7859.16,1,0.0,7859.16,634.14,UPI
+ORD-1311,2024-08-14,Home Office,North,Uttar Pradesh,Technology,Printer,8536.81,1,0.05,8109.97,435.53,Credit Card
+ORD-1312,2024-08-16,Corporate,South,Kerala,Office Supplies,Notebook Pack,433.84,2,0.0,867.68,363.08,UPI
+ORD-1313,2024-08-16,Consumer,West,Rajasthan,Furniture,Office Chair,6500.09,2,0.0,13000.18,1685.97,Debit Card
+ORD-1314,2024-08-17,Home Office,South,Tamil Nadu,Office Supplies,Pen Box,225.61,2,0.0,451.22,192.5,Credit Card
+ORD-1315,2024-08-17,Corporate,West,Maharashtra,Furniture,Study Table,8028.17,4,0.1,28901.41,1401.44,Credit Card
+ORD-1316,2024-08-18,Consumer,North,Punjab,Furniture,Office Chair,6656.84,4,0.05,25295.99,2365.67,Cash on Delivery
+ORD-1317,2024-08-18,Consumer,North,Delhi,Office Supplies,Pen Box,257.98,3,0.2,619.15,158.19,Debit Card
+ORD-1318,2024-08-18,Consumer,North,Uttar Pradesh,Technology,Printer,8291.5,4,0.1,29849.4,1703.01,Cash on Delivery
+ORD-1319,2024-08-18,Consumer,East,Bihar,Furniture,Study Table,8302.24,1,0.2,6641.79,-486.52,Debit Card
+ORD-1320,2024-08-19,Consumer,East,West Bengal,Furniture,Sofa,21667.08,4,0.2,69334.66,-1258.15,Cash on Delivery
+ORD-1321,2024-08-19,Corporate,North,Delhi,Technology,Printer,9288.09,4,0.1,33437.12,2551.94,Cash on Delivery
+ORD-1322,2024-08-20,Consumer,West,Maharashtra,Technology,Laptop,43364.25,2,0.0,86728.5,13692.11,Cash on Delivery
+ORD-1323,2024-08-20,Consumer,South,Kerala,Office Supplies,Stapler,324.66,2,0.05,616.85,148.02,UPI
+ORD-1324,2024-08-21,Corporate,North,Uttar Pradesh,Furniture,Bookshelf,5102.74,5,0.2,20410.96,-920.28,Credit Card
+ORD-1325,2024-08-22,Consumer,South,Kerala,Furniture,Office Chair,5995.76,3,0.05,17087.92,961.89,UPI
+ORD-1326,2024-08-22,Consumer,East,Odisha,Technology,Smartwatch,6191.98,2,0.1,11145.56,1495.39,Credit Card
+ORD-1327,2024-08-22,Consumer,West,Rajasthan,Furniture,Bookshelf,5142.15,1,0.2,4113.72,-38.82,Cash on Delivery
+ORD-1328,2024-08-23,Home Office,West,Rajasthan,Technology,Laptop,46764.37,2,0.0,93528.74,17302.21,Cash on Delivery
+ORD-1329,2024-08-25,Corporate,North,Uttar Pradesh,Technology,Laptop,43051.69,2,0.2,68882.7,2224.56,Net Banking
+ORD-1330,2024-08-27,Consumer,North,Uttar Pradesh,Furniture,Sofa,22354.98,5,0.15,95008.66,-364.24,Credit Card
+ORD-1331,2024-08-27,Corporate,South,Karnataka,Office Supplies,Notebook Pack,420.88,1,0.0,420.88,155.56,Net Banking
+ORD-1332,2024-08-28,Consumer,South,Tamil Nadu,Furniture,Study Table,8104.75,3,0.0,24314.25,3460.88,UPI
+ORD-1333,2024-08-29,Consumer,East,West Bengal,Office Supplies,File Folder,179.69,5,0.2,718.76,124.39,Credit Card
+ORD-1334,2024-08-30,Consumer,West,Rajasthan,Office Supplies,File Folder,165.53,4,0.1,595.91,100.0,Debit Card
+ORD-1335,2024-08-31,Consumer,South,Andhra Pradesh,Furniture,Study Table,7636.7,1,0.3,5345.69,-637.65,Cash on Delivery
+ORD-1336,2024-08-31,Consumer,North,Punjab,Furniture,Study Table,7814.63,3,0.0,23443.89,2401.73,Debit Card
+ORD-1337,2024-09-01,Corporate,North,Uttar Pradesh,Office Supplies,File Folder,191.18,4,0.1,688.25,193.22,UPI
+ORD-1338,2024-09-01,Consumer,South,Andhra Pradesh,Technology,Smartwatch,5590.24,1,0.05,5310.73,1108.08,Cash on Delivery
+ORD-1339,2024-09-03,Consumer,North,Delhi,Office Supplies,File Folder,165.47,3,0.2,397.13,64.19,UPI
+ORD-1340,2024-09-04,Corporate,North,Delhi,Office Supplies,Pen Box,238.17,3,0.2,571.61,183.56,Credit Card
+ORD-1341,2024-09-07,Corporate,South,Andhra Pradesh,Technology,Smartwatch,5924.71,1,0.2,4739.77,423.32,Debit Card
+ORD-1342,2024-09-07,Corporate,South,Karnataka,Furniture,Office Chair,6184.58,3,0.05,17626.05,1864.76,Cash on Delivery
+ORD-1343,2024-09-10,Corporate,West,Gujarat,Office Supplies,Whiteboard,1935.6,3,0.05,5516.46,749.5,UPI
+ORD-1344,2024-09-10,Consumer,West,Maharashtra,Furniture,Study Table,7615.59,3,0.0,22846.77,1540.31,UPI
+ORD-1345,2024-09-13,Corporate,South,Tamil Nadu,Furniture,Sofa,20159.08,2,0.1,36286.34,1629.06,UPI
+ORD-1346,2024-09-15,Home Office,South,Tamil Nadu,Office Supplies,Notebook Pack,476.83,3,0.0,1430.49,579.52,UPI
+ORD-1347,2024-09-18,Corporate,South,Andhra Pradesh,Office Supplies,File Folder,171.03,4,0.1,615.71,157.16,UPI
+ORD-1348,2024-09-20,Consumer,North,Punjab,Furniture,Sofa,24081.09,4,0.2,77059.49,-2651.11,UPI
+ORD-1349,2024-09-20,Home Office,South,Karnataka,Furniture,Bookshelf,6024.2,1,0.0,6024.2,1043.54,UPI
+ORD-1350,2024-09-21,Corporate,South,Tamil Nadu,Technology,Printer,9772.64,3,0.3,20522.54,-2304.69,UPI
+ORD-1351,2024-09-22,Home Office,East,Bihar,Technology,Printer,8909.75,3,0.0,26729.25,3999.29,Credit Card
+ORD-1352,2024-09-22,Consumer,North,Uttar Pradesh,Technology,Smartphone,19632.6,2,0.05,37301.94,2554.3,UPI
+ORD-1353,2024-09-22,Consumer,East,West Bengal,Technology,Headphones,2548.89,2,0.05,4842.89,1495.59,Credit Card
+ORD-1354,2024-09-24,Home Office,North,Delhi,Furniture,Bookshelf,5393.45,4,0.1,19416.42,1223.33,Debit Card
+ORD-1355,2024-09-24,Consumer,South,Karnataka,Technology,Smartphone,18315.49,2,0.1,32967.88,1572.05,Credit Card
+ORD-1356,2024-09-24,Consumer,West,Maharashtra,Technology,Headphones,2550.82,3,0.1,6887.21,1161.78,Cash on Delivery
+ORD-1357,2024-09-25,Corporate,West,Gujarat,Office Supplies,Stapler,306.49,4,0.3,858.17,29.21,UPI
+ORD-1358,2024-09-25,Consumer,South,Kerala,Technology,Smartphone,18242.66,1,0.2,14594.13,-494.87,Debit Card
+ORD-1359,2024-09-27,Consumer,North,Uttar Pradesh,Office Supplies,Stapler,306.26,2,0.05,581.89,159.72,Cash on Delivery
+ORD-1360,2024-09-27,Consumer,West,Maharashtra,Furniture,Study Table,7307.47,2,0.0,14614.94,1080.46,Credit Card
+ORD-1361,2024-09-27,Corporate,South,Kerala,Office Supplies,Notebook Pack,459.92,2,0.2,735.87,154.77,Credit Card
+ORD-1362,2024-09-27,Home Office,East,West Bengal,Office Supplies,Pen Box,258.42,3,0.05,736.5,253.6,Cash on Delivery
+ORD-1363,2024-09-29,Corporate,North,Delhi,Technology,Smartphone,18654.54,2,0.05,35443.63,3398.11,UPI
+ORD-1364,2024-09-29,Consumer,South,Kerala,Office Supplies,Pen Box,233.55,5,0.05,1109.36,445.83,Net Banking
+ORD-1365,2024-09-30,Corporate,South,Tamil Nadu,Office Supplies,Whiteboard,1637.83,2,0.1,2948.09,487.57,UPI
+ORD-1366,2024-10-01,Home Office,West,Rajasthan,Office Supplies,File Folder,171.61,4,0.05,652.12,201.19,Credit Card
+ORD-1367,2024-10-01,Corporate,South,Tamil Nadu,Furniture,Sofa,21689.23,1,0.05,20604.77,-230.42,Credit Card
+ORD-1368,2024-10-04,Corporate,South,Tamil Nadu,Office Supplies,Notebook Pack,478.78,3,0.15,1220.89,231.5,Cash on Delivery
+ORD-1369,2024-10-04,Consumer,North,Uttar Pradesh,Office Supplies,Stapler,271.65,4,0.0,1086.6,382.85,Cash on Delivery
+ORD-1370,2024-10-05,Consumer,South,Kerala,Technology,Smartwatch,6480.11,3,0.0,19440.33,4145.82,Debit Card
+ORD-1371,2024-10-06,Consumer,North,Delhi,Furniture,Bookshelf,6013.78,2,0.1,10824.8,58.19,Credit Card
+ORD-1372,2024-10-08,Consumer,East,Bihar,Office Supplies,Notebook Pack,477.04,4,0.1,1717.34,511.84,UPI
+ORD-1373,2024-10-09,Consumer,West,Gujarat,Technology,Printer,8722.32,1,0.0,8722.32,920.49,UPI
+ORD-1374,2024-10-12,Consumer,South,Tamil Nadu,Technology,Smartphone,18177.87,4,0.0,72711.48,10252.07,UPI
+ORD-1375,2024-10-14,Consumer,South,Kerala,Office Supplies,File Folder,177.95,2,0.15,302.51,67.3,UPI
+ORD-1376,2024-10-17,Consumer,East,Odisha,Office Supplies,File Folder,179.15,3,0.1,483.71,119.24,UPI
+ORD-1377,2024-10-19,Home Office,East,Odisha,Office Supplies,Notebook Pack,446.42,2,0.1,803.56,234.05,UPI
+ORD-1378,2024-10-20,Consumer,South,Andhra Pradesh,Furniture,Office Chair,7097.71,1,0.0,7097.71,827.08,Credit Card
+ORD-1379,2024-10-21,Home Office,South,Kerala,Technology,Laptop,46057.49,2,0.3,64480.49,-2520.7,Cash on Delivery
+ORD-1380,2024-10-21,Consumer,South,Andhra Pradesh,Technology,Smartwatch,5941.14,2,0.1,10694.05,1552.68,Cash on Delivery
+ORD-1381,2024-10-23,Consumer,South,Andhra Pradesh,Furniture,Office Chair,6146.23,1,0.1,5531.61,268.08,Debit Card
+ORD-1382,2024-10-23,Corporate,East,Odisha,Technology,Smartwatch,6545.65,4,0.1,23564.34,3849.79,UPI
+ORD-1383,2024-10-25,Consumer,West,Maharashtra,Office Supplies,Pen Box,250.3,3,0.0,750.9,292.47,UPI
+ORD-1384,2024-10-25,Consumer,South,Kerala,Furniture,Bookshelf,5399.16,4,0.1,19436.98,252.28,Cash on Delivery
+ORD-1385,2024-10-25,Consumer,North,Delhi,Office Supplies,File Folder,162.88,3,0.1,439.78,102.85,UPI
+ORD-1386,2024-10-26,Corporate,South,Tamil Nadu,Technology,Smartwatch,5637.37,2,0.15,9583.53,770.01,UPI
+ORD-1387,2024-10-26,Corporate,South,Kerala,Office Supplies,File Folder,174.45,2,0.15,296.56,61.84,UPI
+ORD-1388,2024-10-27,Corporate,West,Maharashtra,Office Supplies,Notebook Pack,421.41,2,0.1,758.54,214.03,Debit Card
+ORD-1389,2024-10-27,Consumer,South,Andhra Pradesh,Office Supplies,Whiteboard,1902.1,2,0.0,3804.2,941.38,UPI
+ORD-1390,2024-10-28,Consumer,South,Karnataka,Technology,Headphones,2473.4,1,0.0,2473.4,663.52,Cash on Delivery
+ORD-1391,2024-10-30,Home Office,South,Andhra Pradesh,Office Supplies,Whiteboard,1774.03,2,0.15,3015.85,397.03,UPI
+ORD-1392,2024-10-30,Home Office,East,West Bengal,Technology,Printer,9205.56,5,0.1,41425.02,-429.71,Credit Card
+ORD-1393,2024-10-31,Consumer,South,Karnataka,Furniture,Study Table,7628.6,4,0.1,27462.96,-721.58,Debit Card
+ORD-1394,2024-10-31,Corporate,West,Gujarat,Technology,Printer,9458.91,5,0.0,47294.55,4954.41,Debit Card
+ORD-1395,2024-11-01,Corporate,West,Maharashtra,Furniture,Study Table,8087.55,4,0.15,27497.67,-2410.32,Credit Card
+ORD-1396,2024-11-01,Consumer,North,Uttar Pradesh,Office Supplies,Stapler,292.3,2,0.0,584.6,155.55,UPI
+ORD-1397,2024-11-01,Home Office,South,Karnataka,Furniture,Study Table,8489.87,3,0.15,21649.17,-49.11,UPI
+ORD-1398,2024-11-01,Consumer,West,Gujarat,Technology,Printer,8198.88,1,0.1,7378.99,257.83,Credit Card
+ORD-1399,2024-11-01,Consumer,South,Kerala,Office Supplies,File Folder,186.69,4,0.05,709.42,202.5,Cash on Delivery
+ORD-1400,2024-11-01,Corporate,South,Kerala,Office Supplies,File Folder,168.47,3,0.15,429.6,64.86,UPI
+ORD-1401,2024-11-05,Corporate,South,Andhra Pradesh,Furniture,Bookshelf,5534.48,4,0.15,18817.23,-108.68,Debit Card
+ORD-1402,2024-11-06,Home Office,South,Karnataka,Furniture,Bookshelf,5966.54,2,0.05,11336.43,1423.69,Credit Card
+ORD-1403,2024-11-08,Home Office,South,Karnataka,Office Supplies,File Folder,169.06,4,0.0,676.24,231.75,Credit Card
+ORD-1404,2024-11-09,Consumer,North,Delhi,Furniture,Bookshelf,5019.04,2,0.0,10038.08,1509.9,Net Banking
+ORD-1405,2024-11-10,Corporate,East,West Bengal,Furniture,Study Table,7789.85,1,0.05,7400.36,713.69,Cash on Delivery
+ORD-1406,2024-11-10,Home Office,East,Odisha,Technology,Smartwatch,6154.69,2,0.2,9847.5,388.52,UPI
+ORD-1407,2024-11-11,Corporate,South,Karnataka,Office Supplies,Stapler,303.47,4,0.1,1092.49,195.7,UPI
+ORD-1408,2024-11-11,Home Office,South,Kerala,Technology,Headphones,2531.66,5,0.1,11392.47,2348.78,Cash on Delivery
+ORD-1409,2024-11-12,Corporate,West,Rajasthan,Technology,Smartwatch,5646.06,1,0.15,4799.15,275.67,UPI
+ORD-1410,2024-11-12,Consumer,South,Karnataka,Technology,Headphones,2597.4,1,0.0,2597.4,684.79,Credit Card
+ORD-1411,2024-11-12,Home Office,West,Rajasthan,Technology,Printer,9045.16,2,0.0,18090.32,1797.25,Cash on Delivery
+ORD-1412,2024-11-12,Home Office,South,Andhra Pradesh,Furniture,Study Table,7616.91,1,0.0,7616.91,835.88,Credit Card
+ORD-1413,2024-11-12,Home Office,West,Rajasthan,Furniture,Office Chair,6166.64,5,0.1,27749.88,1701.78,Cash on Delivery
+ORD-1414,2024-11-13,Consumer,North,Delhi,Office Supplies,File Folder,191.87,2,0.05,364.55,106.51,Cash on Delivery
+ORD-1415,2024-11-13,Corporate,South,Kerala,Office Supplies,Whiteboard,1972.31,1,0.05,1873.69,342.13,UPI
+ORD-1416,2024-11-13,Corporate,West,Rajasthan,Office Supplies,File Folder,187.46,1,0.3,131.22,10.47,UPI
+ORD-1417,2024-11-14,Home Office,West,Gujarat,Technology,Smartphone,18010.35,4,0.1,64837.26,4191.1,UPI
+ORD-1418,2024-11-15,Consumer,South,Karnataka,Office Supplies,File Folder,185.18,1,0.2,148.14,22.37,Debit Card
+ORD-1419,2024-11-15,Consumer,East,Odisha,Office Supplies,Whiteboard,1781.54,5,0.2,7126.16,742.46,UPI
+ORD-1420,2024-11-16,Consumer,South,Tamil Nadu,Office Supplies,Notebook Pack,420.77,4,0.05,1598.93,429.81,UPI
+ORD-1421,2024-11-16,Consumer,West,Rajasthan,Office Supplies,Notebook Pack,494.59,3,0.0,1483.77,540.02,Debit Card
+ORD-1422,2024-11-16,Corporate,South,Karnataka,Technology,Laptop,49368.28,1,0.1,44431.45,4399.86,UPI
+ORD-1423,2024-11-18,Consumer,West,Gujarat,Technology,Laptop,44051.13,2,0.0,88102.26,14929.62,UPI
+ORD-1424,2024-11-18,Corporate,West,Gujarat,Technology,Smartwatch,6208.97,1,0.0,6208.97,1278.68,Debit Card
+ORD-1425,2024-11-19,Corporate,West,Maharashtra,Furniture,Office Chair,6702.18,5,0.1,30159.81,403.47,Credit Card
+ORD-1426,2024-11-19,Consumer,South,Andhra Pradesh,Furniture,Study Table,8448.93,3,0.0,25346.79,3392.43,Debit Card
+ORD-1427,2024-11-20,Corporate,North,Punjab,Technology,Smartwatch,5830.82,5,0.05,27696.39,6668.8,UPI
+ORD-1428,2024-11-21,Consumer,South,Andhra Pradesh,Office Supplies,File Folder,165.56,2,0.15,281.45,59.81,Credit Card
+ORD-1429,2024-11-21,Corporate,South,Kerala,Office Supplies,Pen Box,234.32,4,0.0,937.28,378.11,UPI
+ORD-1430,2024-11-21,Consumer,South,Karnataka,Furniture,Sofa,22369.95,4,0.0,89479.8,5645.51,Cash on Delivery
+ORD-1431,2024-11-21,Consumer,North,Punjab,Technology,Headphones,2330.34,5,0.0,11651.7,3294.7,Net Banking
+ORD-1432,2024-11-22,Corporate,South,Karnataka,Office Supplies,Whiteboard,1678.24,5,0.15,7132.52,702.42,Debit Card
+ORD-1433,2024-11-22,Consumer,South,Tamil Nadu,Furniture,Office Chair,7135.82,3,0.0,21407.46,3527.78,Debit Card
+ORD-1434,2024-11-23,Consumer,South,Kerala,Technology,Headphones,2604.94,4,0.0,10419.76,3123.36,Credit Card
+ORD-1435,2024-11-24,Consumer,West,Gujarat,Technology,Printer,9774.69,2,0.0,19549.38,1689.34,UPI
+ORD-1436,2024-11-24,Consumer,East,Odisha,Technology,Smartphone,16505.32,4,0.1,59419.15,5405.71,Credit Card
+ORD-1437,2024-11-24,Consumer,East,West Bengal,Furniture,Study Table,7659.96,2,0.15,13021.93,-981.72,UPI
+ORD-1438,2024-11-26,Corporate,West,Rajasthan,Office Supplies,Pen Box,243.56,3,0.2,584.54,107.13,UPI
+ORD-1439,2024-11-27,Home Office,East,Bihar,Furniture,Study Table,7663.83,3,0.15,19542.77,157.87,UPI
+ORD-1440,2024-11-27,Corporate,North,Punjab,Office Supplies,Notebook Pack,470.67,1,0.1,423.6,128.44,Debit Card
+ORD-1441,2024-11-28,Corporate,North,Punjab,Furniture,Study Table,8005.08,2,0.0,16010.16,2143.75,UPI
+ORD-1442,2024-11-28,Corporate,South,Tamil Nadu,Technology,Smartwatch,5410.34,1,0.15,4598.79,979.65,UPI
+ORD-1443,2024-11-29,Consumer,East,Bihar,Technology,Printer,9672.07,3,0.2,23212.97,198.44,Credit Card
+ORD-1444,2024-11-29,Consumer,South,Karnataka,Technology,Smartwatch,6044.61,2,0.0,12089.22,2684.63,UPI
+ORD-1445,2024-11-30,Corporate,North,Uttar Pradesh,Technology,Printer,8720.09,5,0.05,41420.43,1812.21,UPI
+ORD-1446,2024-11-30,Consumer,West,Maharashtra,Technology,Laptop,47960.38,4,0.1,172657.37,11337.03,Cash on Delivery
+ORD-1447,2024-12-01,Consumer,South,Kerala,Office Supplies,Pen Box,226.64,2,0.0,453.28,165.92,Credit Card
+ORD-1448,2024-12-01,Home Office,South,Kerala,Office Supplies,Notebook Pack,465.56,1,0.0,465.56,172.09,UPI
+ORD-1449,2024-12-01,Corporate,South,Kerala,Technology,Printer,8640.45,3,0.05,24625.28,2269.13,Credit Card
+ORD-1450,2024-12-02,Home Office,West,Gujarat,Technology,Headphones,2499.33,1,0.1,2249.4,584.26,Debit Card
+ORD-1451,2024-12-03,Consumer,West,Gujarat,Office Supplies,Whiteboard,1973.1,5,0.0,9865.5,2125.65,Debit Card
+ORD-1452,2024-12-03,Consumer,South,Karnataka,Office Supplies,Pen Box,241.55,5,0.0,1207.75,478.1,UPI
+ORD-1453,2024-12-03,Home Office,North,Delhi,Office Supplies,Stapler,320.36,4,0.1,1153.3,227.8,Debit Card
+ORD-1454,2024-12-03,Consumer,South,Tamil Nadu,Office Supplies,Notebook Pack,435.58,2,0.05,827.6,257.96,Cash on Delivery
+ORD-1455,2024-12-03,Consumer,North,Uttar Pradesh,Office Supplies,Whiteboard,1809.63,4,0.0,7238.52,1724.2,Debit Card
+ORD-1456,2024-12-04,Home Office,West,Gujarat,Office Supplies,Stapler,275.42,4,0.1,991.51,147.65,Credit Card
+ORD-1457,2024-12-06,Corporate,North,Delhi,Office Supplies,Whiteboard,1806.48,4,0.15,6142.03,449.33,UPI
+ORD-1458,2024-12-06,Corporate,West,Maharashtra,Technology,Smartphone,17081.27,2,0.2,27330.03,-175.55,Credit Card
+ORD-1459,2024-12-06,Consumer,West,Rajasthan,Technology,Headphones,2719.77,4,0.1,9791.17,2477.27,Credit Card
+ORD-1460,2024-12-07,Consumer,East,Odisha,Office Supplies,File Folder,179.33,3,0.0,537.99,186.07,UPI
+ORD-1461,2024-12-08,Consumer,South,Kerala,Office Supplies,File Folder,179.3,4,0.0,717.2,239.9,Credit Card
+ORD-1462,2024-12-08,Home Office,North,Delhi,Office Supplies,Pen Box,247.55,2,0.15,420.84,120.07,Debit Card
+ORD-1463,2024-12-09,Corporate,South,Kerala,Technology,Printer,8335.6,1,0.0,8335.6,500.77,Cash on Delivery
+ORD-1464,2024-12-10,Consumer,South,Karnataka,Furniture,Study Table,7818.15,3,0.05,22281.73,1399.86,Credit Card
+ORD-1465,2024-12-11,Consumer,South,Kerala,Technology,Laptop,45386.48,2,0.0,90772.96,12508.97,Debit Card
+ORD-1466,2024-12-12,Consumer,South,Tamil Nadu,Technology,Printer,9808.06,4,0.0,39232.24,6080.86,Net Banking
+ORD-1467,2024-12-12,Corporate,North,Uttar Pradesh,Office Supplies,Whiteboard,1739.09,3,0.1,4695.54,341.31,UPI
+ORD-1468,2024-12-13,Corporate,North,Delhi,Technology,Headphones,2335.82,3,0.0,7007.46,2007.55,UPI
+ORD-1469,2024-12-13,Consumer,North,Punjab,Technology,Laptop,47239.44,5,0.1,212577.48,18404.13,UPI
+ORD-1470,2024-12-13,Consumer,West,Gujarat,Technology,Headphones,2586.13,4,0.15,8792.84,1225.07,UPI
+ORD-1471,2024-12-14,Home Office,North,Delhi,Office Supplies,Stapler,277.95,1,0.15,236.26,37.85,Debit Card
+ORD-1472,2024-12-14,Consumer,West,Rajasthan,Office Supplies,Notebook Pack,470.4,2,0.0,940.8,278.31,Cash on Delivery
+ORD-1473,2024-12-15,Consumer,West,Rajasthan,Office Supplies,Notebook Pack,414.24,5,0.2,1656.96,300.45,UPI
+ORD-1474,2024-12-15,Consumer,South,Andhra Pradesh,Technology,Headphones,2468.21,2,0.1,4442.78,763.47,UPI
+ORD-1475,2024-12-17,Corporate,South,Karnataka,Technology,Printer,9298.65,5,0.05,44168.59,5440.34,UPI
+ORD-1476,2024-12-18,Consumer,South,Tamil Nadu,Furniture,Office Chair,6152.32,3,0.15,15688.42,318.85,Cash on Delivery
+ORD-1477,2024-12-21,Consumer,East,Odisha,Office Supplies,Whiteboard,1693.44,5,0.05,8043.84,1421.94,Net Banking
+ORD-1478,2024-12-22,Consumer,West,Rajasthan,Office Supplies,Notebook Pack,431.02,3,0.0,1293.06,397.6,Cash on Delivery
+ORD-1479,2024-12-22,Consumer,West,Maharashtra,Technology,Smartphone,17978.97,3,0.0,53936.91,7575.64,Cash on Delivery
+ORD-1480,2024-12-23,Home Office,West,Rajasthan,Technology,Printer,8866.56,2,0.05,16846.46,1373.69,UPI
+ORD-1481,2024-12-24,Corporate,South,Tamil Nadu,Office Supplies,Notebook Pack,446.06,2,0.0,892.12,348.87,Net Banking
+ORD-1482,2024-12-25,Corporate,West,Rajasthan,Technology,Headphones,2416.05,4,0.05,9180.99,3001.76,Net Banking
+ORD-1483,2024-12-25,Consumer,North,Punjab,Office Supplies,File Folder,181.88,3,0.0,545.64,193.47,Net Banking
+ORD-1484,2024-12-25,Consumer,South,Karnataka,Office Supplies,Notebook Pack,428.1,3,0.0,1284.3,512.0,Cash on Delivery
+ORD-1485,2024-12-26,Home Office,South,Andhra Pradesh,Technology,Smartphone,18779.84,5,0.1,84509.28,7082.43,Debit Card
+ORD-1486,2024-12-27,Home Office,South,Andhra Pradesh,Office Supplies,Whiteboard,1801.64,2,0.15,3062.79,171.04,Credit Card
+ORD-1487,2024-12-27,Corporate,South,Karnataka,Furniture,Bookshelf,5407.78,3,0.0,16223.34,2109.87,UPI
+ORD-1488,2024-12-29,Home Office,North,Delhi,Office Supplies,Notebook Pack,445.73,1,0.15,378.87,94.25,UPI
+ORD-1489,2024-12-29,Consumer,East,Bihar,Furniture,Study Table,7895.3,3,0.0,23685.9,2372.87,UPI
+ORD-1490,2024-12-30,Corporate,North,Uttar Pradesh,Technology,Headphones,2595.78,5,0.3,9085.23,812.51,Credit Card
+ORD-1491,2024-12-30,Consumer,East,West Bengal,Office Supplies,Whiteboard,1937.42,1,0.0,1937.42,359.44,Net Banking
+ORD-1492,2024-12-31,Corporate,South,Kerala,Furniture,Office Chair,6903.39,1,0.05,6558.22,501.18,UPI
+ORD-1493,2024-12-31,Home Office,South,Tamil Nadu,Technology,Laptop,49478.22,3,0.1,133591.19,6423.04,UPI
+ORD-1494,2024-12-31,Consumer,East,West Bengal,Office Supplies,Stapler,312.9,1,0.1,281.61,47.09,UPI
+ORD-1495,2025-01-02,Consumer,North,Uttar Pradesh,Furniture,Office Chair,6768.81,5,0.05,32151.85,4604.09,Cash on Delivery
+ORD-1496,2025-01-03,Corporate,West,Gujarat,Office Supplies,Whiteboard,1628.53,5,0.0,8142.65,1678.38,Credit Card
+ORD-1497,2025-01-03,Corporate,South,Tamil Nadu,Furniture,Sofa,20927.95,3,0.2,50227.08,-3648.21,Debit Card
+ORD-1498,2025-01-03,Corporate,West,Rajasthan,Technology,Laptop,47702.24,1,0.05,45317.13,6088.82,UPI
+ORD-1499,2025-01-03,Corporate,East,West Bengal,Technology,Smartphone,17684.13,4,0.15,60126.04,-1661.13,Cash on Delivery
+ORD-1500,2025-01-04,Corporate,West,Maharashtra,Office Supplies,Notebook Pack,442.77,5,0.0,2213.85,757.87,UPI
+ORD-1501,2025-01-04,Consumer,East,Odisha,Technology,Headphones,2509.77,3,0.05,7152.84,1765.32,Credit Card
+ORD-1502,2025-01-06,Home Office,South,Karnataka,Technology,Laptop,45888.65,3,0.0,137665.95,26079.14,Cash on Delivery
+ORD-1503,2025-01-06,Consumer,South,Tamil Nadu,Technology,Smartwatch,5659.67,5,0.3,19808.84,794.26,Credit Card
+ORD-1504,2025-01-06,Consumer,South,Kerala,Technology,Laptop,45484.37,3,0.0,136453.11,23977.58,UPI
+ORD-1505,2025-01-09,Consumer,West,Rajasthan,Office Supplies,File Folder,189.85,4,0.15,645.49,110.72,Debit Card
+ORD-1506,2025-01-09,Consumer,West,Gujarat,Office Supplies,Whiteboard,1924.03,2,0.05,3655.66,696.51,Net Banking
+ORD-1507,2025-01-10,Corporate,North,Punjab,Furniture,Bookshelf,5554.05,2,0.2,8886.48,-194.88,UPI
+ORD-1508,2025-01-10,Corporate,North,Uttar Pradesh,Furniture,Study Table,7338.18,5,0.2,29352.72,-1034.09,Net Banking
+ORD-1509,2025-01-11,Home Office,South,Tamil Nadu,Office Supplies,Stapler,324.1,2,0.1,583.38,94.78,UPI
+ORD-1510,2025-01-11,Consumer,South,Tamil Nadu,Technology,Printer,9226.23,4,0.15,31369.18,394.5,UPI
+ORD-1511,2025-01-12,Consumer,East,Odisha,Technology,Smartwatch,5591.84,2,0.1,10065.31,2041.11,UPI
+ORD-1512,2025-01-13,Consumer,South,Karnataka,Office Supplies,File Folder,194.05,5,0.1,873.23,252.55,Net Banking
+ORD-1513,2025-01-14,Corporate,North,Uttar Pradesh,Office Supplies,Pen Box,261.8,2,0.3,366.52,39.27,Credit Card
+ORD-1514,2025-01-15,Consumer,West,Maharashtra,Office Supplies,File Folder,196.13,2,0.0,392.26,125.98,Credit Card
+ORD-1515,2025-01-15,Corporate,South,Kerala,Furniture,Bookshelf,5555.91,5,0.1,25001.6,105.65,Debit Card
+ORD-1516,2025-01-16,Consumer,South,Kerala,Technology,Printer,9449.86,4,0.0,37799.44,4296.86,Cash on Delivery
+ORD-1517,2025-01-16,Corporate,North,Punjab,Technology,Laptop,44572.58,3,0.0,133717.74,19945.3,Credit Card
+ORD-1518,2025-01-16,Consumer,South,Andhra Pradesh,Technology,Printer,9447.69,1,0.1,8502.92,491.99,Debit Card
+ORD-1519,2025-01-17,Corporate,North,Delhi,Technology,Printer,9827.9,3,0.05,28009.51,2326.83,UPI
+ORD-1520,2025-01-19,Consumer,East,Odisha,Office Supplies,Pen Box,241.94,1,0.0,241.94,95.62,Credit Card
+ORD-1521,2025-01-19,Consumer,South,Andhra Pradesh,Technology,Laptop,48438.45,2,0.0,96876.9,17897.92,Cash on Delivery
+ORD-1522,2025-01-21,Home Office,South,Karnataka,Furniture,Sofa,20048.76,5,0.0,100243.8,8842.39,Debit Card
+ORD-1523,2025-01-22,Corporate,North,Uttar Pradesh,Furniture,Study Table,7884.85,5,0.0,39424.25,5218.73,Debit Card
+ORD-1524,2025-01-22,Consumer,East,West Bengal,Office Supplies,Stapler,277.57,4,0.05,1054.77,292.47,Credit Card
+ORD-1525,2025-01-23,Consumer,East,West Bengal,Technology,Laptop,42435.2,2,0.0,84870.4,14644.59,Credit Card
+ORD-1526,2025-01-23,Consumer,West,Gujarat,Technology,Laptop,40797.53,1,0.0,40797.53,5527.78,UPI
+ORD-1527,2025-01-24,Corporate,North,Uttar Pradesh,Office Supplies,Notebook Pack,465.88,4,0.1,1677.17,477.66,Cash on Delivery
+ORD-1528,2025-01-25,Corporate,West,Maharashtra,Technology,Printer,9226.98,3,0.0,27680.94,2904.73,Cash on Delivery
+ORD-1529,2025-01-26,Consumer,North,Uttar Pradesh,Technology,Smartphone,19482.74,4,0.0,77930.96,8393.27,Credit Card
+ORD-1530,2025-01-26,Corporate,North,Uttar Pradesh,Office Supplies,Stapler,321.58,5,0.05,1527.5,368.74,Debit Card
+ORD-1531,2025-01-27,Consumer,South,Kerala,Furniture,Bookshelf,5207.39,4,0.3,14580.69,-2043.91,Debit Card
+ORD-1532,2025-01-29,Consumer,South,Tamil Nadu,Office Supplies,Notebook Pack,475.55,3,0.05,1355.32,375.05,UPI
+ORD-1533,2025-01-29,Corporate,South,Tamil Nadu,Technology,Laptop,45092.59,5,0.15,191643.51,26168.73,Credit Card
+ORD-1534,2025-01-30,Corporate,North,Uttar Pradesh,Furniture,Study Table,8322.24,3,0.0,24966.72,3325.06,Debit Card
+ORD-1535,2025-01-30,Home Office,West,Rajasthan,Technology,Printer,8121.26,1,0.0,8121.26,819.05,Credit Card
+ORD-1536,2025-01-31,Consumer,South,Tamil Nadu,Office Supplies,Pen Box,248.27,5,0.0,1241.35,468.16,Net Banking
+ORD-1537,2025-01-31,Consumer,South,Tamil Nadu,Office Supplies,Stapler,292.24,4,0.3,818.27,30.02,UPI
+ORD-1538,2025-02-01,Corporate,East,Odisha,Furniture,Bookshelf,5037.46,1,0.15,4281.84,-37.69,UPI
+ORD-1539,2025-02-01,Consumer,South,Kerala,Office Supplies,Whiteboard,1868.72,1,0.1,1681.85,241.88,Credit Card
+ORD-1540,2025-02-01,Home Office,North,Delhi,Office Supplies,Stapler,325.53,5,0.0,1627.65,408.42,UPI
+ORD-1541,2025-02-02,Corporate,West,Gujarat,Furniture,Sofa,22140.3,3,0.0,66420.9,-525.91,UPI
+ORD-1542,2025-02-02,Corporate,South,Kerala,Furniture,Office Chair,5852.16,3,0.0,17556.48,1912.74,UPI
+ORD-1543,2025-02-03,Consumer,South,Andhra Pradesh,Technology,Laptop,45354.94,2,0.05,86174.39,9065.96,Credit Card
+ORD-1544,2025-02-03,Consumer,South,Andhra Pradesh,Technology,Headphones,2618.73,1,0.0,2618.73,718.63,Debit Card
+ORD-1545,2025-02-03,Consumer,West,Rajasthan,Furniture,Study Table,8237.36,3,0.05,23476.48,-426.65,Cash on Delivery
+ORD-1546,2025-02-04,Home Office,East,Bihar,Office Supplies,Stapler,328.37,5,0.15,1395.57,206.25,Cash on Delivery
+ORD-1547,2025-02-04,Consumer,North,Punjab,Technology,Printer,9401.92,2,0.0,18803.84,2500.26,Net Banking
+ORD-1548,2025-02-07,Consumer,South,Karnataka,Technology,Smartphone,18465.11,1,0.0,18465.11,2794.24,UPI
+ORD-1549,2025-02-07,Consumer,West,Rajasthan,Technology,Headphones,2341.49,1,0.15,1990.27,343.67,Cash on Delivery
+ORD-1550,2025-02-08,Consumer,West,Gujarat,Office Supplies,Whiteboard,1783.6,5,0.3,6242.6,87.9,Debit Card
+ORD-1551,2025-02-08,Consumer,West,Maharashtra,Furniture,Office Chair,7142.3,5,0.0,35711.5,4835.67,UPI
+ORD-1552,2025-02-08,Consumer,North,Delhi,Technology,Laptop,42955.52,4,0.0,171822.08,35510.38,UPI
+ORD-1553,2025-02-09,Consumer,East,Odisha,Technology,Smartphone,17137.86,1,0.2,13710.29,-323.78,Credit Card
+ORD-1554,2025-02-09,Corporate,West,Gujarat,Technology,Headphones,2468.92,2,0.2,3950.27,556.36,UPI
+ORD-1555,2025-02-09,Corporate,East,Odisha,Technology,Printer,8145.9,3,0.0,24437.7,3570.17,Debit Card
+ORD-1556,2025-02-09,Home Office,West,Maharashtra,Technology,Laptop,45197.98,4,0.0,180791.92,40181.63,UPI
+ORD-1557,2025-02-10,Consumer,East,West Bengal,Office Supplies,Notebook Pack,471.01,4,0.1,1695.64,450.29,Debit Card
+ORD-1558,2025-02-12,Corporate,West,Gujarat,Office Supplies,File Folder,176.83,4,0.2,565.86,122.98,UPI
+ORD-1559,2025-02-16,Consumer,West,Gujarat,Technology,Laptop,48247.21,1,0.15,41010.13,2136.95,Debit Card
+ORD-1560,2025-02-16,Home Office,South,Andhra Pradesh,Furniture,Sofa,20913.35,3,0.15,53329.04,-1586.79,UPI
+ORD-1561,2025-02-16,Consumer,West,Rajasthan,Furniture,Sofa,22331.56,4,0.0,89326.24,8865.0,Credit Card
+ORD-1562,2025-02-16,Corporate,North,Punjab,Technology,Printer,8128.45,3,0.05,23166.08,2239.25,Cash on Delivery
+ORD-1563,2025-02-17,Corporate,North,Uttar Pradesh,Technology,Laptop,45891.71,2,0.1,82605.08,10442.04,Net Banking
+ORD-1564,2025-02-18,Consumer,South,Karnataka,Technology,Laptop,41140.52,4,0.3,115193.46,-5678.88,UPI
+ORD-1565,2025-02-19,Consumer,East,West Bengal,Technology,Headphones,2546.48,2,0.1,4583.66,1048.29,Cash on Delivery
+ORD-1566,2025-02-20,Home Office,West,Rajasthan,Office Supplies,File Folder,169.34,3,0.15,431.82,87.12,Cash on Delivery
+ORD-1567,2025-02-21,Home Office,South,Tamil Nadu,Office Supplies,Pen Box,240.13,2,0.05,456.25,157.09,Debit Card
+ORD-1568,2025-02-21,Corporate,North,Uttar Pradesh,Technology,Laptop,48635.28,3,0.15,124019.96,11523.39,Debit Card
+ORD-1569,2025-02-21,Home Office,South,Andhra Pradesh,Office Supplies,Stapler,327.46,4,0.0,1309.84,386.86,Credit Card
+ORD-1570,2025-02-21,Corporate,South,Andhra Pradesh,Office Supplies,File Folder,187.97,3,0.0,563.91,199.9,UPI
+ORD-1571,2025-02-23,Consumer,South,Tamil Nadu,Technology,Printer,8825.18,5,0.15,37507.01,-707.05,UPI
+ORD-1572,2025-02-25,Corporate,South,Karnataka,Technology,Smartwatch,6070.28,3,0.0,18210.84,4845.7,Debit Card
+ORD-1573,2025-02-25,Home Office,West,Maharashtra,Office Supplies,Whiteboard,1740.21,1,0.0,1740.21,317.39,UPI
+ORD-1574,2025-02-26,Corporate,West,Gujarat,Office Supplies,File Folder,187.14,4,0.05,711.13,201.97,Credit Card
+ORD-1575,2025-02-26,Corporate,North,Uttar Pradesh,Technology,Printer,9355.09,1,0.1,8419.58,505.65,Net Banking
+ORD-1576,2025-02-27,Home Office,North,Delhi,Technology,Laptop,41745.63,5,0.0,208728.15,33180.1,Cash on Delivery
+ORD-1577,2025-02-28,Consumer,East,West Bengal,Office Supplies,File Folder,195.09,4,0.0,780.36,277.08,Debit Card
+ORD-1578,2025-02-28,Home Office,South,Karnataka,Technology,Smartphone,18763.2,1,0.2,15010.56,-201.01,Debit Card
+ORD-1579,2025-03-02,Corporate,South,Tamil Nadu,Technology,Printer,9346.99,5,0.0,46734.95,7022.4,Debit Card
+ORD-1580,2025-03-04,Corporate,West,Rajasthan,Technology,Printer,9177.32,1,0.15,7800.72,35.78,UPI
+ORD-1581,2025-03-04,Consumer,East,West Bengal,Office Supplies,Pen Box,273.6,1,0.0,273.6,110.77,Credit Card
+ORD-1582,2025-03-05,Corporate,North,Punjab,Technology,Smartphone,18571.82,2,0.0,37143.64,4834.34,Net Banking
+ORD-1583,2025-03-05,Consumer,South,Andhra Pradesh,Office Supplies,Stapler,300.41,3,0.3,630.86,7.86,UPI
+ORD-1584,2025-03-06,Home Office,South,Tamil Nadu,Furniture,Office Chair,6026.02,1,0.1,5423.42,251.15,UPI
+ORD-1585,2025-03-06,Corporate,South,Andhra Pradesh,Furniture,Sofa,23807.9,4,0.15,80946.86,-6041.72,Credit Card
+ORD-1586,2025-03-07,Home Office,West,Gujarat,Office Supplies,File Folder,182.87,3,0.05,521.18,136.38,Credit Card
+ORD-1587,2025-03-07,Corporate,South,Kerala,Office Supplies,Pen Box,231.28,5,0.1,1040.76,276.58,UPI
+ORD-1588,2025-03-08,Consumer,West,Rajasthan,Technology,Smartwatch,6538.96,4,0.05,24848.05,5292.39,UPI
+ORD-1589,2025-03-09,Corporate,South,Andhra Pradesh,Furniture,Study Table,7725.08,3,0.05,22016.48,2305.42,Credit Card
+ORD-1590,2025-03-09,Consumer,West,Gujarat,Office Supplies,Notebook Pack,447.69,1,0.0,447.69,183.24,Debit Card
+ORD-1591,2025-03-11,Corporate,South,Karnataka,Technology,Smartwatch,6014.45,1,0.0,6014.45,1308.26,Cash on Delivery
+ORD-1592,2025-03-11,Consumer,West,Maharashtra,Office Supplies,Whiteboard,1904.55,4,0.15,6475.47,708.26,UPI
+ORD-1593,2025-03-12,Corporate,South,Kerala,Technology,Smartphone,19553.4,1,0.1,17598.06,1773.5,Debit Card
+ORD-1594,2025-03-12,Home Office,West,Gujarat,Furniture,Sofa,22443.74,3,0.05,63964.66,1703.35,Debit Card
+ORD-1595,2025-03-13,Home Office,South,Kerala,Furniture,Office Chair,6211.01,5,0.05,29502.3,3985.54,Credit Card
+ORD-1596,2025-03-13,Corporate,East,Bihar,Furniture,Sofa,20686.99,2,0.1,37236.58,844.33,Debit Card
+ORD-1597,2025-03-15,Consumer,North,Delhi,Furniture,Bookshelf,5478.49,2,0.15,9313.43,155.39,Debit Card
+ORD-1598,2025-03-16,Home Office,East,West Bengal,Technology,Laptop,46253.25,1,0.15,39315.26,3745.38,UPI
+ORD-1599,2025-03-16,Consumer,North,Delhi,Technology,Smartwatch,5848.31,2,0.0,11696.62,3466.61,UPI
+ORD-1600,2025-03-17,Corporate,West,Maharashtra,Technology,Headphones,2425.37,2,0.05,4608.2,1077.15,UPI
+ORD-1601,2025-03-18,Consumer,South,Kerala,Technology,Headphones,2661.66,3,0.1,7186.48,1682.59,Credit Card
+ORD-1602,2025-03-18,Corporate,South,Tamil Nadu,Office Supplies,Whiteboard,1718.53,4,0.0,6874.12,1577.98,UPI
+ORD-1603,2025-03-19,Consumer,East,West Bengal,Furniture,Sofa,23205.33,2,0.15,39449.06,-833.08,Cash on Delivery
+ORD-1604,2025-03-22,Home Office,East,Odisha,Furniture,Sofa,22873.46,2,0.05,43459.57,1033.17,Cash on Delivery
+ORD-1605,2025-03-22,Consumer,South,Kerala,Furniture,Study Table,7223.14,1,0.3,5056.2,-594.22,UPI
+ORD-1606,2025-03-23,Consumer,West,Gujarat,Office Supplies,Pen Box,251.96,4,0.2,806.27,189.4,Net Banking
+ORD-1607,2025-03-23,Consumer,South,Kerala,Furniture,Office Chair,6645.75,2,0.2,10633.2,-209.02,UPI
+ORD-1608,2025-03-24,Consumer,North,Punjab,Office Supplies,Notebook Pack,422.59,3,0.05,1204.38,325.23,Credit Card
+ORD-1609,2025-03-24,Consumer,West,Rajasthan,Office Supplies,Whiteboard,1661.42,1,0.1,1495.28,244.76,Cash on Delivery
+ORD-1610,2025-03-24,Consumer,North,Uttar Pradesh,Technology,Smartphone,19365.92,5,0.05,91988.12,5258.16,UPI
+ORD-1611,2025-03-25,Corporate,West,Rajasthan,Technology,Smartwatch,6152.55,4,0.0,24610.2,6748.72,Credit Card
+ORD-1612,2025-03-25,Corporate,South,Andhra Pradesh,Technology,Smartwatch,5454.52,5,0.05,25908.97,6809.58,Credit Card
+ORD-1613,2025-03-25,Corporate,West,Maharashtra,Furniture,Office Chair,6568.89,1,0.0,6568.89,934.57,Net Banking
+ORD-1614,2025-03-26,Consumer,West,Rajasthan,Office Supplies,File Folder,196.12,2,0.0,392.24,125.54,UPI
+ORD-1615,2025-03-29,Corporate,South,Tamil Nadu,Office Supplies,Notebook Pack,410.16,4,0.15,1394.54,353.47,UPI
+ORD-1616,2025-03-29,Corporate,East,West Bengal,Technology,Laptop,42003.34,4,0.0,168013.36,35237.78,Cash on Delivery
+ORD-1617,2025-03-31,Corporate,South,Karnataka,Technology,Headphones,2481.05,2,0.0,4962.1,1334.86,UPI
+ORD-1618,2025-04-01,Consumer,West,Gujarat,Furniture,Bookshelf,5576.51,2,0.15,9480.07,-477.63,Net Banking
+ORD-1619,2025-04-02,Consumer,South,Karnataka,Furniture,Bookshelf,4963.64,5,0.05,23577.29,2485.96,Credit Card
+ORD-1620,2025-04-03,Consumer,South,Andhra Pradesh,Office Supplies,Pen Box,266.81,1,0.0,266.81,112.19,UPI
+ORD-1621,2025-04-03,Consumer,North,Delhi,Office Supplies,File Folder,176.89,5,0.1,796.0,234.27,Cash on Delivery
+ORD-1622,2025-04-04,Consumer,South,Tamil Nadu,Furniture,Bookshelf,5988.54,2,0.15,10180.52,171.74,Credit Card
+ORD-1623,2025-04-04,Consumer,South,Tamil Nadu,Technology,Laptop,43332.75,3,0.1,116998.43,8891.14,Cash on Delivery
+ORD-1624,2025-04-05,Home Office,East,West Bengal,Technology,Smartphone,16523.03,4,0.0,66092.12,10227.98,Credit Card
+ORD-1625,2025-04-06,Consumer,East,Bihar,Furniture,Bookshelf,5695.38,3,0.1,15377.53,554.1,Credit Card
+ORD-1626,2025-04-07,Home Office,West,Maharashtra,Furniture,Study Table,8221.35,2,0.1,14798.43,642.49,Credit Card
+ORD-1627,2025-04-07,Consumer,West,Maharashtra,Technology,Smartphone,18923.46,2,0.15,32169.88,328.62,UPI
+ORD-1628,2025-04-08,Consumer,South,Kerala,Technology,Laptop,42181.11,4,0.1,151852.0,17484.91,Net Banking
+ORD-1629,2025-04-08,Home Office,South,Karnataka,Office Supplies,Whiteboard,1670.42,2,0.15,2839.71,203.87,UPI
+ORD-1630,2025-04-08,Home Office,South,Tamil Nadu,Technology,Laptop,49406.93,1,0.05,46936.58,5215.87,Debit Card
+ORD-1631,2025-04-08,Corporate,East,West Bengal,Furniture,Study Table,8118.99,1,0.1,7307.09,98.89,Credit Card
+ORD-1632,2025-04-08,Home Office,East,Odisha,Office Supplies,Whiteboard,1920.39,1,0.05,1824.37,360.42,UPI
+ORD-1633,2025-04-09,Consumer,East,Bihar,Technology,Smartwatch,5773.92,3,0.05,16455.67,2740.24,UPI
+ORD-1634,2025-04-09,Consumer,South,Tamil Nadu,Technology,Laptop,45761.29,1,0.1,41185.16,2821.71,Debit Card
+ORD-1635,2025-04-09,Consumer,West,Maharashtra,Office Supplies,Whiteboard,1833.94,1,0.2,1467.15,-3.71,Net Banking
+ORD-1636,2025-04-10,Corporate,South,Andhra Pradesh,Office Supplies,Whiteboard,1887.94,2,0.3,2643.12,-97.22,Credit Card
+ORD-1637,2025-04-11,Consumer,South,Andhra Pradesh,Office Supplies,Whiteboard,1850.52,5,0.2,7402.08,548.39,Net Banking
+ORD-1638,2025-04-14,Consumer,South,Karnataka,Technology,Smartwatch,5450.81,2,0.15,9266.38,1450.43,Debit Card
+ORD-1639,2025-04-14,Consumer,West,Maharashtra,Furniture,Sofa,22248.84,1,0.1,20023.96,-529.61,Debit Card
+ORD-1640,2025-04-15,Home Office,West,Maharashtra,Office Supplies,File Folder,190.35,3,0.1,513.94,151.59,Credit Card
+ORD-1641,2025-04-18,Home Office,East,Bihar,Technology,Printer,8375.31,2,0.0,16750.62,1745.23,Debit Card
+ORD-1642,2025-04-18,Consumer,West,Gujarat,Office Supplies,Pen Box,233.6,2,0.1,420.48,148.77,Credit Card
+ORD-1643,2025-04-19,Consumer,West,Rajasthan,Technology,Printer,9356.93,3,0.05,26667.25,4128.64,UPI
+ORD-1644,2025-04-19,Home Office,West,Rajasthan,Furniture,Sofa,23104.44,3,0.05,65847.65,-746.99,UPI
+ORD-1645,2025-04-20,Consumer,South,Tamil Nadu,Office Supplies,Pen Box,244.87,4,0.05,930.51,336.95,UPI
+ORD-1646,2025-04-20,Corporate,West,Gujarat,Technology,Smartwatch,5728.01,1,0.0,5728.01,1425.76,Credit Card
+ORD-1647,2025-04-21,Consumer,South,Tamil Nadu,Furniture,Sofa,20326.9,3,0.0,60980.7,5961.71,Cash on Delivery
+ORD-1648,2025-04-21,Home Office,North,Delhi,Furniture,Bookshelf,5055.68,2,0.05,9605.79,519.08,UPI
+ORD-1649,2025-04-22,Corporate,South,Karnataka,Office Supplies,Whiteboard,1917.78,1,0.15,1630.11,229.71,UPI
+ORD-1650,2025-04-22,Consumer,South,Andhra Pradesh,Office Supplies,Pen Box,243.04,2,0.0,486.08,191.34,UPI
+ORD-1651,2025-04-24,Consumer,East,Odisha,Furniture,Sofa,23195.07,3,0.1,62626.69,221.53,Cash on Delivery
+ORD-1652,2025-04-25,Corporate,West,Gujarat,Technology,Laptop,46173.0,1,0.15,39247.05,-982.25,Credit Card
+ORD-1653,2025-04-26,Corporate,South,Tamil Nadu,Office Supplies,Notebook Pack,482.77,1,0.0,482.77,159.31,Debit Card
+ORD-1654,2025-04-27,Corporate,North,Punjab,Furniture,Bookshelf,5934.68,5,0.0,29673.4,2376.06,UPI
+ORD-1655,2025-04-28,Consumer,North,Punjab,Furniture,Bookshelf,5531.52,4,0.1,19913.47,1279.96,Cash on Delivery
+ORD-1656,2025-04-28,Corporate,South,Kerala,Office Supplies,Whiteboard,1706.57,2,0.0,3413.14,758.92,UPI
+ORD-1657,2025-04-28,Consumer,West,Gujarat,Office Supplies,Notebook Pack,441.27,2,0.1,794.29,222.04,Debit Card
+ORD-1658,2025-04-29,Corporate,South,Andhra Pradesh,Office Supplies,Pen Box,274.25,5,0.15,1165.56,328.36,Credit Card
+ORD-1659,2025-04-29,Corporate,South,Karnataka,Office Supplies,Whiteboard,1915.69,1,0.0,1915.69,472.42,Cash on Delivery
+ORD-1660,2025-04-29,Consumer,South,Andhra Pradesh,Furniture,Sofa,20225.71,1,0.0,20225.71,821.26,UPI
+ORD-1661,2025-04-30,Corporate,North,Punjab,Office Supplies,Notebook Pack,434.9,4,0.1,1565.64,400.03,UPI
+ORD-1662,2025-04-30,Corporate,South,Tamil Nadu,Furniture,Study Table,8502.35,1,0.05,8077.23,278.44,UPI
+ORD-1663,2025-04-30,Home Office,East,Bihar,Office Supplies,Whiteboard,1665.7,5,0.05,7912.07,1466.25,Debit Card
+ORD-1664,2025-05-01,Consumer,East,Odisha,Technology,Smartphone,18502.18,5,0.1,83259.81,7753.23,Credit Card
+ORD-1665,2025-05-02,Home Office,West,Maharashtra,Furniture,Study Table,8328.05,1,0.05,7911.65,551.31,Credit Card
+ORD-1666,2025-05-03,Consumer,South,Karnataka,Technology,Smartphone,18908.38,2,0.15,32144.25,2621.81,UPI
+ORD-1667,2025-05-03,Consumer,North,Delhi,Technology,Printer,9159.82,1,0.1,8243.84,330.87,Debit Card
+ORD-1668,2025-05-04,Corporate,North,Uttar Pradesh,Furniture,Bookshelf,6014.7,4,0.0,24058.8,3415.25,Credit Card
+ORD-1669,2025-05-04,Corporate,South,Kerala,Furniture,Sofa,21693.0,1,0.1,19523.7,256.81,UPI
+ORD-1670,2025-05-04,Consumer,West,Gujarat,Office Supplies,Stapler,289.03,5,0.15,1228.38,243.19,UPI
+ORD-1671,2025-05-05,Home Office,South,Tamil Nadu,Furniture,Office Chair,6010.92,2,0.0,12021.84,1765.81,UPI
+ORD-1672,2025-05-09,Corporate,South,Tamil Nadu,Office Supplies,Pen Box,254.13,1,0.0,254.13,111.97,Credit Card
+ORD-1673,2025-05-09,Home Office,East,Odisha,Technology,Laptop,47383.23,2,0.2,75813.17,2029.28,UPI
+ORD-1674,2025-05-09,Home Office,South,Andhra Pradesh,Office Supplies,Pen Box,243.94,1,0.05,231.74,83.04,Credit Card
+ORD-1675,2025-05-10,Home Office,South,Karnataka,Office Supplies,Pen Box,266.99,2,0.0,533.98,220.34,Cash on Delivery
+ORD-1676,2025-05-11,Consumer,West,Gujarat,Furniture,Office Chair,6536.81,3,0.05,18629.91,1882.22,Cash on Delivery
+ORD-1677,2025-05-11,Home Office,West,Gujarat,Office Supplies,Notebook Pack,429.13,1,0.2,343.3,66.75,UPI
+ORD-1678,2025-05-13,Home Office,North,Delhi,Furniture,Sofa,20989.5,4,0.15,71364.3,-7413.03,Net Banking
+ORD-1679,2025-05-13,Corporate,South,Karnataka,Technology,Laptop,41870.94,4,0.05,159109.57,25219.57,Credit Card
+ORD-1680,2025-05-14,Consumer,South,Kerala,Technology,Printer,8593.03,2,0.0,17186.06,1766.57,UPI
+ORD-1681,2025-05-14,Corporate,North,Punjab,Furniture,Office Chair,5987.31,1,0.0,5987.31,913.7,Net Banking
+ORD-1682,2025-05-15,Corporate,West,Maharashtra,Furniture,Bookshelf,4994.58,5,0.1,22475.61,951.93,Debit Card
+ORD-1683,2025-05-15,Corporate,North,Punjab,Office Supplies,Pen Box,230.24,3,0.0,690.72,279.82,Debit Card
+ORD-1684,2025-05-15,Corporate,West,Maharashtra,Office Supplies,Notebook Pack,485.61,4,0.0,1942.44,778.33,UPI
+ORD-1685,2025-05-16,Consumer,East,West Bengal,Office Supplies,Notebook Pack,451.48,5,0.0,2257.4,823.58,Credit Card
+ORD-1686,2025-05-18,Consumer,South,Andhra Pradesh,Technology,Headphones,2375.25,5,0.3,8313.38,685.9,Credit Card
+ORD-1687,2025-05-19,Home Office,North,Delhi,Technology,Smartphone,18002.28,3,0.3,37804.79,-3263.63,Credit Card
+ORD-1688,2025-05-21,Consumer,South,Tamil Nadu,Technology,Headphones,2339.07,3,0.15,5964.63,957.39,UPI
+ORD-1689,2025-05-22,Consumer,North,Punjab,Office Supplies,Whiteboard,1785.67,5,0.1,8035.52,802.81,Credit Card
+ORD-1690,2025-05-23,Home Office,West,Gujarat,Office Supplies,File Folder,184.27,2,0.2,294.83,50.96,UPI
+ORD-1691,2025-05-23,Home Office,North,Delhi,Technology,Headphones,2722.71,5,0.05,12932.87,3106.36,Credit Card
+ORD-1692,2025-05-24,Corporate,West,Rajasthan,Technology,Headphones,2371.83,5,0.1,10673.24,2290.72,UPI
+ORD-1693,2025-05-24,Consumer,East,Odisha,Furniture,Sofa,23779.04,2,0.1,42802.27,-2486.2,Debit Card
+ORD-1694,2025-05-24,Consumer,North,Delhi,Office Supplies,Notebook Pack,408.01,5,0.0,2040.05,599.92,Debit Card
+ORD-1695,2025-05-25,Corporate,South,Kerala,Office Supplies,Whiteboard,1902.25,2,0.15,3233.82,345.88,UPI
+ORD-1696,2025-05-25,Home Office,West,Gujarat,Office Supplies,Notebook Pack,435.51,3,0.0,1306.53,418.0,UPI
+ORD-1697,2025-05-26,Corporate,West,Gujarat,Office Supplies,File Folder,180.61,2,0.1,325.1,55.21,Cash on Delivery
+ORD-1698,2025-05-26,Consumer,East,Bihar,Office Supplies,Pen Box,233.6,5,0.05,1109.6,432.99,UPI
+ORD-1699,2025-05-27,Consumer,South,Kerala,Technology,Smartwatch,5656.71,4,0.15,19232.81,1598.84,UPI
+ORD-1700,2025-05-28,Consumer,East,Odisha,Furniture,Study Table,7774.73,4,0.0,31098.92,3867.22,UPI
+ORD-1701,2025-05-29,Consumer,East,West Bengal,Office Supplies,File Folder,184.04,1,0.0,184.04,50.4,Credit Card
+ORD-1702,2025-06-01,Corporate,East,Odisha,Office Supplies,Whiteboard,1860.41,5,0.0,9302.05,1830.78,Credit Card
+ORD-1703,2025-06-01,Consumer,South,Karnataka,Technology,Printer,9205.93,1,0.15,7825.04,-337.75,Cash on Delivery
+ORD-1704,2025-06-02,Consumer,North,Delhi,Technology,Smartphone,19764.81,3,0.15,50400.27,3148.3,Cash on Delivery
+ORD-1705,2025-06-06,Home Office,South,Kerala,Office Supplies,Stapler,274.27,4,0.0,1097.08,313.15,UPI
+ORD-1706,2025-06-07,Home Office,South,Karnataka,Furniture,Study Table,7914.22,5,0.3,27699.77,-4115.94,UPI
+ORD-1707,2025-06-07,Home Office,North,Delhi,Office Supplies,File Folder,171.78,1,0.0,171.78,67.71,Debit Card
+ORD-1708,2025-06-07,Consumer,East,West Bengal,Technology,Headphones,2494.85,4,0.3,6985.58,469.78,UPI
+ORD-1709,2025-06-07,Consumer,North,Uttar Pradesh,Technology,Laptop,40543.72,5,0.2,162174.88,2832.29,Credit Card
+ORD-1710,2025-06-09,Corporate,North,Delhi,Office Supplies,File Folder,171.98,5,0.2,687.92,99.87,Credit Card
+ORD-1711,2025-06-09,Home Office,South,Karnataka,Office Supplies,Stapler,298.2,1,0.0,298.2,88.38,Credit Card
+ORD-1712,2025-06-10,Consumer,North,Uttar Pradesh,Furniture,Study Table,8666.66,1,0.1,7799.99,127.29,Credit Card
+ORD-1713,2025-06-10,Home Office,South,Andhra Pradesh,Office Supplies,Whiteboard,1820.86,5,0.05,8649.08,1834.96,Credit Card
+ORD-1714,2025-06-10,Corporate,North,Uttar Pradesh,Technology,Smartwatch,6518.33,2,0.1,11732.99,1643.31,UPI
+ORD-1715,2025-06-11,Corporate,West,Gujarat,Office Supplies,Whiteboard,1812.53,4,0.05,6887.61,1483.84,Credit Card
+ORD-1716,2025-06-11,Home Office,South,Kerala,Technology,Printer,8495.24,4,0.2,27184.77,-32.48,UPI
+ORD-1717,2025-06-12,Home Office,South,Andhra Pradesh,Office Supplies,File Folder,190.66,1,0.15,162.06,31.53,Credit Card
+ORD-1718,2025-06-12,Consumer,South,Tamil Nadu,Technology,Headphones,2364.22,4,0.1,8511.19,1898.03,UPI
+ORD-1719,2025-06-13,Consumer,West,Gujarat,Technology,Smartphone,17745.81,2,0.2,28393.3,-135.2,Credit Card
+ORD-1720,2025-06-14,Consumer,South,Kerala,Office Supplies,Whiteboard,1954.17,5,0.0,9770.85,1966.79,UPI
+ORD-1721,2025-06-15,Corporate,West,Gujarat,Furniture,Bookshelf,5938.18,4,0.1,21377.45,576.15,Debit Card
+ORD-1722,2025-06-16,Home Office,South,Karnataka,Technology,Headphones,2548.82,5,0.15,10832.49,1441.09,Credit Card
+ORD-1723,2025-06-16,Consumer,South,Kerala,Furniture,Office Chair,6393.91,2,0.0,12787.82,2031.27,Debit Card
+ORD-1724,2025-06-17,Corporate,East,West Bengal,Office Supplies,File Folder,181.98,2,0.0,363.96,122.76,Cash on Delivery
+ORD-1725,2025-06-17,Corporate,South,Tamil Nadu,Furniture,Sofa,24099.29,3,0.05,68682.98,2627.73,Debit Card
+ORD-1726,2025-06-20,Home Office,West,Gujarat,Furniture,Sofa,23497.17,5,0.2,93988.68,-4008.07,Credit Card
+ORD-1727,2025-06-20,Consumer,South,Kerala,Office Supplies,Pen Box,238.17,2,0.0,476.34,203.72,Credit Card
+ORD-1728,2025-06-21,Corporate,South,Kerala,Furniture,Bookshelf,5239.0,1,0.3,3667.3,-580.69,Credit Card
+ORD-1729,2025-06-21,Corporate,East,Bihar,Technology,Printer,9306.17,2,0.05,17681.72,945.92,Debit Card
+ORD-1730,2025-06-21,Consumer,South,Tamil Nadu,Office Supplies,Notebook Pack,422.56,1,0.1,380.3,98.85,Credit Card
+ORD-1731,2025-06-21,Consumer,South,Andhra Pradesh,Technology,Printer,9116.69,3,0.0,27350.07,2701.26,Debit Card
+ORD-1732,2025-06-21,Corporate,South,Andhra Pradesh,Office Supplies,Stapler,327.79,4,0.15,1114.49,142.47,Credit Card
+ORD-1733,2025-06-22,Corporate,North,Delhi,Office Supplies,Pen Box,243.74,5,0.0,1218.7,501.83,Debit Card
+ORD-1734,2025-06-22,Corporate,West,Rajasthan,Furniture,Bookshelf,5606.24,3,0.05,15977.78,1151.68,Cash on Delivery
+ORD-1735,2025-06-22,Home Office,North,Uttar Pradesh,Furniture,Sofa,23127.75,1,0.0,23127.75,1480.23,UPI
+ORD-1736,2025-06-22,Corporate,South,Kerala,Technology,Printer,9815.3,1,0.1,8833.77,471.12,UPI
+ORD-1737,2025-06-23,Corporate,South,Karnataka,Technology,Smartphone,16847.18,3,0.05,48014.46,2076.1,Debit Card
+ORD-1738,2025-06-23,Home Office,West,Gujarat,Technology,Printer,9520.3,1,0.1,8568.27,563.95,Debit Card
+ORD-1739,2025-06-26,Consumer,East,Bihar,Technology,Smartphone,17776.76,5,0.1,79995.42,5514.22,Credit Card
+ORD-1740,2025-06-27,Consumer,West,Rajasthan,Furniture,Sofa,23726.95,4,0.3,66435.46,-11232.81,Cash on Delivery
+ORD-1741,2025-06-27,Consumer,East,Bihar,Technology,Laptop,47519.36,4,0.15,161565.82,20116.01,UPI
+ORD-1742,2025-06-28,Home Office,North,Punjab,Office Supplies,Notebook Pack,446.67,4,0.0,1786.68,619.34,UPI
+ORD-1743,2025-06-29,Consumer,West,Gujarat,Office Supplies,Pen Box,238.54,3,0.0,715.62,269.98,Credit Card
+ORD-1744,2025-06-29,Corporate,North,Uttar Pradesh,Office Supplies,Whiteboard,1919.65,2,0.15,3263.41,442.9,Credit Card
+ORD-1745,2025-06-30,Consumer,East,West Bengal,Furniture,Bookshelf,5944.96,5,0.3,20807.36,-1679.13,Cash on Delivery
+ORD-1746,2025-06-30,Consumer,East,Bihar,Technology,Smartphone,16347.13,2,0.0,32694.26,4932.62,UPI
+ORD-1747,2025-07-01,Consumer,West,Rajasthan,Technology,Smartphone,18811.46,2,0.05,35741.77,3094.75,UPI
+ORD-1748,2025-07-03,Corporate,North,Punjab,Office Supplies,Stapler,310.12,2,0.05,589.23,164.18,Credit Card
+ORD-1749,2025-07-06,Consumer,West,Rajasthan,Technology,Smartphone,19593.02,3,0.3,41145.34,-3199.8,UPI
+ORD-1750,2025-07-07,Consumer,South,Tamil Nadu,Office Supplies,File Folder,168.42,4,0.15,572.63,125.72,Debit Card
+ORD-1751,2025-07-07,Consumer,North,Delhi,Office Supplies,Whiteboard,1908.97,3,0.1,5154.22,569.58,Cash on Delivery
+ORD-1752,2025-07-08,Consumer,South,Andhra Pradesh,Technology,Headphones,2675.97,1,0.1,2408.37,467.54,Debit Card
+ORD-1753,2025-07-09,Consumer,West,Rajasthan,Office Supplies,Stapler,328.19,1,0.0,328.19,109.83,UPI
+ORD-1754,2025-07-10,Corporate,East,Odisha,Furniture,Study Table,7507.62,4,0.0,30030.48,1506.64,Cash on Delivery
+ORD-1755,2025-07-11,Corporate,West,Rajasthan,Furniture,Study Table,8412.18,3,0.3,17665.58,-3319.77,UPI
+ORD-1756,2025-07-11,Corporate,North,Punjab,Office Supplies,Pen Box,270.49,3,0.15,689.75,205.77,Credit Card
+ORD-1757,2025-07-12,Consumer,North,Punjab,Technology,Smartphone,19499.16,4,0.05,74096.81,11759.73,UPI
+ORD-1758,2025-07-12,Consumer,South,Andhra Pradesh,Technology,Smartphone,18382.68,4,0.0,73530.72,9257.72,UPI
+ORD-1759,2025-07-13,Home Office,West,Rajasthan,Technology,Laptop,41097.19,4,0.0,164388.76,45411.54,UPI
+ORD-1760,2025-07-13,Corporate,West,Gujarat,Furniture,Office Chair,6742.78,4,0.2,21576.9,-637.4,Cash on Delivery
+ORD-1761,2025-07-14,Consumer,West,Maharashtra,Office Supplies,Notebook Pack,413.98,5,0.0,2069.9,612.03,Debit Card
+ORD-1762,2025-07-15,Consumer,West,Rajasthan,Office Supplies,Pen Box,263.0,2,0.0,526.0,214.67,Debit Card
+ORD-1763,2025-07-16,Home Office,West,Gujarat,Technology,Headphones,2725.02,2,0.05,5177.54,1446.9,Credit Card
+ORD-1764,2025-07-16,Consumer,South,Andhra Pradesh,Office Supplies,Notebook Pack,423.04,4,0.15,1438.34,289.66,Cash on Delivery
+ORD-1765,2025-07-17,Consumer,South,Tamil Nadu,Furniture,Office Chair,6356.13,2,0.15,10805.42,448.65,UPI
+ORD-1766,2025-07-17,Home Office,South,Kerala,Furniture,Bookshelf,5481.79,1,0.15,4659.52,129.46,Debit Card
+ORD-1767,2025-07-17,Home Office,South,Tamil Nadu,Technology,Printer,9628.16,4,0.05,36587.01,2866.48,UPI
+ORD-1768,2025-07-18,Consumer,South,Andhra Pradesh,Technology,Smartwatch,5486.47,5,0.0,27432.35,6622.51,UPI
+ORD-1769,2025-07-19,Corporate,South,Kerala,Office Supplies,Notebook Pack,452.33,4,0.1,1628.39,447.58,Cash on Delivery
+ORD-1770,2025-07-21,Consumer,West,Maharashtra,Furniture,Bookshelf,5839.83,2,0.1,10511.69,875.98,Debit Card
+ORD-1771,2025-07-21,Home Office,East,Bihar,Furniture,Sofa,21374.11,1,0.0,21374.11,1042.26,UPI
+ORD-1772,2025-07-21,Consumer,East,West Bengal,Office Supplies,Stapler,295.83,3,0.15,754.37,169.21,Credit Card
+ORD-1773,2025-07-22,Corporate,West,Gujarat,Technology,Laptop,46274.81,1,0.0,46274.81,7573.47,UPI
+ORD-1774,2025-07-22,Corporate,West,Gujarat,Technology,Smartwatch,5765.36,2,0.0,11530.72,2293.23,UPI
+ORD-1775,2025-07-22,Home Office,South,Kerala,Furniture,Sofa,20627.66,5,0.1,92824.47,-2571.65,Debit Card
+ORD-1776,2025-07-23,Consumer,North,Punjab,Technology,Smartwatch,5987.43,5,0.05,28440.29,6739.69,Credit Card
+ORD-1777,2025-07-23,Home Office,East,West Bengal,Furniture,Bookshelf,5638.59,4,0.15,19171.21,1282.4,UPI
+ORD-1778,2025-07-23,Consumer,North,Uttar Pradesh,Technology,Smartphone,18192.14,3,0.3,38203.49,-1979.99,Credit Card
+ORD-1779,2025-07-23,Home Office,West,Maharashtra,Technology,Headphones,2732.19,2,0.0,5464.38,1843.51,Cash on Delivery
+ORD-1780,2025-07-24,Home Office,North,Punjab,Technology,Laptop,47627.77,3,0.15,121450.81,10262.99,Cash on Delivery
+ORD-1781,2025-07-24,Consumer,South,Andhra Pradesh,Office Supplies,Notebook Pack,448.12,4,0.2,1433.98,298.39,UPI
+ORD-1782,2025-07-25,Consumer,East,West Bengal,Office Supplies,Whiteboard,1873.37,5,0.0,9366.85,1979.62,Credit Card
+ORD-1783,2025-07-25,Home Office,North,Punjab,Technology,Headphones,2302.13,3,0.0,6906.39,2253.06,UPI
+ORD-1784,2025-07-26,Corporate,South,Kerala,Technology,Headphones,2663.12,1,0.3,1864.18,52.86,UPI
+ORD-1785,2025-07-26,Corporate,South,Karnataka,Technology,Smartphone,16453.76,3,0.0,49361.28,9477.91,Debit Card
+ORD-1786,2025-07-26,Home Office,North,Delhi,Office Supplies,File Folder,170.06,4,0.0,680.24,227.95,Net Banking
+ORD-1787,2025-07-26,Corporate,South,Andhra Pradesh,Furniture,Study Table,8669.99,1,0.0,8669.99,1063.44,UPI
+ORD-1788,2025-07-27,Consumer,West,Gujarat,Office Supplies,Notebook Pack,433.86,2,0.05,824.33,279.62,Cash on Delivery
+ORD-1789,2025-07-27,Consumer,South,Karnataka,Office Supplies,Pen Box,250.85,3,0.0,752.55,303.83,UPI
+ORD-1790,2025-07-27,Consumer,South,Andhra Pradesh,Furniture,Sofa,23329.06,2,0.15,39659.4,-1053.24,UPI
+ORD-1791,2025-07-28,Home Office,South,Karnataka,Furniture,Sofa,23829.28,5,0.05,113189.08,3244.66,UPI
+ORD-1792,2025-07-28,Home Office,West,Gujarat,Office Supplies,Notebook Pack,449.48,2,0.0,898.96,353.34,Net Banking
+ORD-1793,2025-07-28,Home Office,East,Odisha,Furniture,Bookshelf,5335.66,5,0.0,26678.3,2942.17,Net Banking
+ORD-1794,2025-07-29,Consumer,East,Odisha,Technology,Printer,8876.07,3,0.1,23965.39,1354.71,UPI
+ORD-1795,2025-08-01,Corporate,West,Rajasthan,Furniture,Office Chair,6361.9,2,0.1,11451.42,208.15,Cash on Delivery
+ORD-1796,2025-08-01,Corporate,South,Kerala,Office Supplies,Stapler,306.13,5,0.05,1454.12,334.89,UPI
+ORD-1797,2025-08-02,Consumer,South,Kerala,Office Supplies,Stapler,303.39,1,0.05,288.22,73.06,Debit Card
+ORD-1798,2025-08-03,Consumer,West,Gujarat,Office Supplies,File Folder,197.66,4,0.1,711.58,220.43,Credit Card
+ORD-1799,2025-08-03,Consumer,South,Kerala,Furniture,Study Table,8505.69,2,0.15,14459.67,-568.71,Cash on Delivery
+ORD-1800,2025-08-03,Home Office,West,Gujarat,Furniture,Office Chair,6090.99,2,0.05,11572.88,1333.69,UPI
+ORD-1801,2025-08-03,Corporate,West,Gujarat,Technology,Laptop,41729.87,3,0.0,125189.61,22159.14,Debit Card
+ORD-1802,2025-08-04,Home Office,West,Gujarat,Furniture,Study Table,7914.55,4,0.0,31658.2,3934.28,UPI
+ORD-1803,2025-08-04,Consumer,South,Tamil Nadu,Technology,Headphones,2272.56,5,0.2,9090.24,920.33,UPI
+ORD-1804,2025-08-06,Consumer,South,Kerala,Office Supplies,File Folder,197.98,4,0.0,791.92,255.1,UPI
+ORD-1805,2025-08-07,Home Office,East,West Bengal,Furniture,Bookshelf,5320.64,3,0.1,14365.73,-50.91,Credit Card
+ORD-1806,2025-08-07,Consumer,North,Punjab,Technology,Laptop,47795.05,5,0.0,238975.25,51535.04,Debit Card
+ORD-1807,2025-08-07,Home Office,South,Karnataka,Office Supplies,Stapler,297.34,4,0.1,1070.42,244.91,UPI
+ORD-1808,2025-08-08,Home Office,South,Karnataka,Technology,Laptop,40668.76,4,0.15,138273.78,11315.44,Debit Card
+ORD-1809,2025-08-08,Consumer,East,Bihar,Office Supplies,Pen Box,238.36,1,0.15,202.61,52.77,UPI
+ORD-1810,2025-08-09,Consumer,West,Maharashtra,Technology,Printer,9710.85,3,0.1,26219.3,1749.54,Cash on Delivery
+ORD-1811,2025-08-10,Consumer,North,Punjab,Office Supplies,Whiteboard,1760.57,1,0.0,1760.57,390.55,UPI
+ORD-1812,2025-08-10,Consumer,South,Andhra Pradesh,Furniture,Study Table,7731.86,5,0.05,36726.33,815.91,Cash on Delivery
+ORD-1813,2025-08-10,Consumer,South,Kerala,Technology,Laptop,44380.93,5,0.15,188618.95,6411.99,Debit Card
+ORD-1814,2025-08-10,Consumer,North,Uttar Pradesh,Technology,Laptop,41429.55,4,0.1,149146.38,22447.66,Debit Card
+ORD-1815,2025-08-10,Corporate,South,Andhra Pradesh,Technology,Headphones,2452.5,5,0.15,10423.12,2457.61,Debit Card
+ORD-1816,2025-08-12,Corporate,West,Gujarat,Technology,Smartphone,18020.61,5,0.15,76587.59,3547.25,Debit Card
+ORD-1817,2025-08-13,Consumer,East,Odisha,Technology,Printer,8851.2,1,0.0,8851.2,833.37,Credit Card
+ORD-1818,2025-08-13,Corporate,North,Uttar Pradesh,Furniture,Study Table,8284.71,1,0.0,8284.71,644.42,UPI
+ORD-1819,2025-08-13,Home Office,West,Rajasthan,Office Supplies,Whiteboard,1644.7,4,0.1,5920.92,836.5,Credit Card
+ORD-1820,2025-08-16,Consumer,North,Delhi,Furniture,Sofa,19804.81,2,0.15,33668.18,-1539.2,UPI
+ORD-1821,2025-08-17,Home Office,South,Andhra Pradesh,Furniture,Bookshelf,5028.98,3,0.2,12069.55,-425.85,Credit Card
+ORD-1822,2025-08-19,Consumer,West,Gujarat,Office Supplies,Stapler,305.07,4,0.1,1098.25,187.13,UPI
+ORD-1823,2025-08-19,Consumer,South,Tamil Nadu,Office Supplies,File Folder,196.2,3,0.05,559.17,171.43,UPI
+ORD-1824,2025-08-21,Corporate,South,Andhra Pradesh,Office Supplies,Whiteboard,1662.44,2,0.0,3324.88,634.24,UPI
+ORD-1825,2025-08-21,Corporate,South,Tamil Nadu,Office Supplies,Notebook Pack,490.36,5,0.0,2451.8,823.55,UPI
+ORD-1826,2025-08-22,Consumer,East,West Bengal,Technology,Smartphone,16524.01,2,0.0,33048.02,4300.17,Cash on Delivery
+ORD-1827,2025-08-23,Consumer,West,Maharashtra,Technology,Headphones,2275.48,5,0.05,10808.53,3150.42,UPI
+ORD-1828,2025-08-25,Consumer,North,Delhi,Office Supplies,Notebook Pack,469.06,2,0.2,750.5,162.31,Credit Card
+ORD-1829,2025-08-25,Consumer,South,Tamil Nadu,Technology,Smartwatch,5981.18,4,0.2,19139.78,2155.89,Credit Card
+ORD-1830,2025-08-25,Consumer,North,Uttar Pradesh,Technology,Smartphone,17499.25,4,0.0,69997.0,10893.22,UPI
+ORD-1831,2025-08-26,Corporate,North,Delhi,Furniture,Sofa,21712.26,1,0.0,21712.26,1785.82,UPI
+ORD-1832,2025-08-26,Corporate,West,Gujarat,Technology,Headphones,2615.81,1,0.0,2615.81,882.76,Cash on Delivery
+ORD-1833,2025-08-27,Consumer,South,Andhra Pradesh,Furniture,Study Table,7231.55,1,0.0,7231.55,877.25,UPI
+ORD-1834,2025-08-27,Corporate,South,Karnataka,Office Supplies,Stapler,322.82,3,0.1,871.61,170.37,UPI
+ORD-1835,2025-08-28,Home Office,South,Andhra Pradesh,Office Supplies,Pen Box,271.15,4,0.1,976.14,297.72,UPI
+ORD-1836,2025-08-28,Corporate,West,Maharashtra,Technology,Smartphone,19158.38,2,0.0,38316.76,5702.76,Credit Card
+ORD-1837,2025-08-29,Consumer,South,Tamil Nadu,Technology,Printer,8128.05,2,0.0,16256.1,2325.83,Debit Card
+ORD-1838,2025-08-29,Corporate,West,Gujarat,Furniture,Bookshelf,4993.87,1,0.0,4993.87,522.79,Cash on Delivery
+ORD-1839,2025-08-30,Corporate,West,Maharashtra,Office Supplies,Notebook Pack,448.76,4,0.05,1705.29,524.3,UPI
+ORD-1840,2025-08-30,Consumer,West,Gujarat,Technology,Printer,8143.15,5,0.05,38679.96,1371.14,UPI
+ORD-1841,2025-08-30,Home Office,South,Andhra Pradesh,Office Supplies,Whiteboard,1809.38,1,0.0,1809.38,426.5,Credit Card
+ORD-1842,2025-08-31,Corporate,South,Karnataka,Office Supplies,File Folder,163.93,5,0.15,696.7,174.34,Credit Card
+ORD-1843,2025-08-31,Consumer,North,Uttar Pradesh,Technology,Headphones,2537.23,3,0.0,7611.69,2403.75,Debit Card
+ORD-1844,2025-09-02,Consumer,North,Punjab,Technology,Printer,9277.0,4,0.05,35252.6,2182.44,UPI
+ORD-1845,2025-09-03,Consumer,East,Bihar,Technology,Laptop,42474.11,2,0.1,76453.4,6473.51,UPI
+ORD-1846,2025-09-03,Consumer,East,Odisha,Technology,Printer,8942.55,3,0.0,26827.65,4141.64,UPI
+ORD-1847,2025-09-05,Consumer,North,Delhi,Technology,Headphones,2424.02,5,0.15,10302.09,1729.12,Cash on Delivery
+ORD-1848,2025-09-05,Corporate,North,Punjab,Office Supplies,Whiteboard,1661.5,4,0.0,6646.0,1113.5,UPI
+ORD-1849,2025-09-05,Consumer,South,Kerala,Furniture,Bookshelf,5074.17,1,0.0,5074.17,571.71,Credit Card
+ORD-1850,2025-09-05,Consumer,South,Karnataka,Furniture,Sofa,23844.58,3,0.05,67957.05,2718.83,Debit Card
+ORD-1851,2025-09-06,Consumer,North,Delhi,Office Supplies,Whiteboard,1760.94,5,0.0,8804.7,2192.54,Credit Card
+ORD-1852,2025-09-07,Home Office,South,Tamil Nadu,Furniture,Office Chair,6426.77,2,0.05,12210.86,917.57,UPI
+ORD-1853,2025-09-08,Corporate,East,West Bengal,Office Supplies,Stapler,301.26,3,0.05,858.59,186.28,UPI
+ORD-1854,2025-09-09,Consumer,South,Tamil Nadu,Technology,Laptop,41764.05,4,0.0,167056.2,25282.39,UPI
+ORD-1855,2025-09-09,Consumer,North,Uttar Pradesh,Office Supplies,Whiteboard,1665.81,1,0.05,1582.52,437.87,Credit Card
+ORD-1856,2025-09-09,Consumer,South,Andhra Pradesh,Office Supplies,Notebook Pack,448.1,2,0.0,896.2,275.42,Credit Card
+ORD-1857,2025-09-10,Home Office,South,Tamil Nadu,Office Supplies,Pen Box,260.19,1,0.3,182.13,25.74,Debit Card
+ORD-1858,2025-09-11,Home Office,East,Odisha,Technology,Laptop,43817.6,1,0.0,43817.6,7556.94,Cash on Delivery
+ORD-1859,2025-09-12,Corporate,South,Kerala,Technology,Headphones,2383.47,1,0.15,2025.95,287.54,UPI
+ORD-1860,2025-09-12,Consumer,West,Maharashtra,Technology,Printer,9380.48,5,0.05,44557.28,5513.23,Cash on Delivery
+ORD-1861,2025-09-12,Corporate,South,Karnataka,Furniture,Bookshelf,6011.65,3,0.15,15329.71,116.9,Credit Card
+ORD-1862,2025-09-13,Consumer,West,Gujarat,Office Supplies,File Folder,192.24,1,0.3,134.57,7.93,UPI
+ORD-1863,2025-09-13,Consumer,East,West Bengal,Office Supplies,Stapler,292.11,2,0.0,584.22,134.11,Net Banking
+ORD-1864,2025-09-14,Consumer,South,Karnataka,Office Supplies,Whiteboard,1697.73,3,0.15,4329.21,741.33,Net Banking
+ORD-1865,2025-09-15,Corporate,West,Maharashtra,Office Supplies,File Folder,164.35,4,0.0,657.4,220.89,Credit Card
+ORD-1866,2025-09-15,Consumer,East,Bihar,Office Supplies,Pen Box,227.34,2,0.05,431.95,129.86,UPI
+ORD-1867,2025-09-16,Home Office,East,Odisha,Furniture,Bookshelf,5903.89,4,0.3,16530.89,-3347.34,Credit Card
+ORD-1868,2025-09-16,Consumer,South,Andhra Pradesh,Technology,Laptop,42027.43,3,0.15,107169.95,6788.2,UPI
+ORD-1869,2025-09-17,Consumer,South,Andhra Pradesh,Technology,Headphones,2473.13,5,0.1,11129.09,2354.67,UPI
+ORD-1870,2025-09-18,Consumer,West,Gujarat,Office Supplies,Stapler,278.5,3,0.05,793.72,225.14,Credit Card
+ORD-1871,2025-09-18,Consumer,West,Maharashtra,Office Supplies,Notebook Pack,454.11,1,0.05,431.4,116.35,UPI
+ORD-1872,2025-09-18,Home Office,South,Karnataka,Office Supplies,Notebook Pack,450.66,1,0.3,315.46,34.22,UPI
+ORD-1873,2025-09-20,Corporate,West,Rajasthan,Office Supplies,Stapler,281.91,1,0.1,253.72,50.27,Cash on Delivery
+ORD-1874,2025-09-22,Corporate,South,Tamil Nadu,Office Supplies,File Folder,177.39,4,0.05,674.08,197.35,Debit Card
+ORD-1875,2025-09-22,Home Office,East,West Bengal,Office Supplies,Whiteboard,1727.69,5,0.0,8638.45,1673.41,UPI
+ORD-1876,2025-09-25,Consumer,North,Punjab,Technology,Printer,8613.92,2,0.15,14643.66,159.29,Debit Card
+ORD-1877,2025-09-25,Home Office,South,Karnataka,Office Supplies,Whiteboard,1669.26,1,0.05,1585.8,292.65,UPI
+ORD-1878,2025-09-29,Corporate,North,Uttar Pradesh,Technology,Smartphone,18618.62,3,0.05,53063.07,3787.99,UPI
+ORD-1879,2025-09-30,Consumer,South,Kerala,Technology,Smartphone,18432.41,4,0.05,70043.16,5718.48,Net Banking
+ORD-1880,2025-09-30,Consumer,South,Tamil Nadu,Furniture,Study Table,7522.33,3,0.15,19181.94,406.57,Cash on Delivery
+ORD-1881,2025-10-02,Corporate,North,Delhi,Office Supplies,Notebook Pack,473.74,2,0.1,852.73,200.34,Credit Card
+ORD-1882,2025-10-03,Consumer,West,Maharashtra,Office Supplies,Stapler,314.24,4,0.1,1131.26,239.18,Cash on Delivery
+ORD-1883,2025-10-05,Home Office,South,Tamil Nadu,Furniture,Bookshelf,5821.64,5,0.05,27652.79,1506.91,Credit Card
+ORD-1884,2025-10-07,Consumer,South,Karnataka,Office Supplies,Notebook Pack,451.72,4,0.0,1806.88,698.31,Net Banking
+ORD-1885,2025-10-08,Corporate,North,Uttar Pradesh,Office Supplies,Pen Box,226.95,2,0.1,408.51,148.71,UPI
+ORD-1886,2025-10-10,Consumer,South,Kerala,Office Supplies,Pen Box,245.7,2,0.0,491.4,205.95,UPI
+ORD-1887,2025-10-11,Consumer,North,Uttar Pradesh,Office Supplies,Notebook Pack,431.51,5,0.0,2157.55,769.96,Debit Card
+ORD-1888,2025-10-12,Home Office,East,Odisha,Technology,Smartwatch,5965.14,3,0.3,12526.79,637.28,Credit Card
+ORD-1889,2025-10-12,Home Office,West,Rajasthan,Office Supplies,Whiteboard,1646.54,1,0.15,1399.56,129.73,Cash on Delivery
+ORD-1890,2025-10-13,Consumer,North,Uttar Pradesh,Office Supplies,File Folder,190.73,5,0.1,858.28,211.98,UPI
+ORD-1891,2025-10-13,Consumer,West,Maharashtra,Furniture,Office Chair,6187.27,1,0.05,5877.91,715.51,UPI
+ORD-1892,2025-10-14,Consumer,South,Andhra Pradesh,Office Supplies,Notebook Pack,483.25,4,0.3,1353.1,136.48,Credit Card
+ORD-1893,2025-10-14,Consumer,West,Maharashtra,Office Supplies,Notebook Pack,490.56,4,0.15,1667.9,433.07,Debit Card
+ORD-1894,2025-10-16,Home Office,East,West Bengal,Office Supplies,File Folder,173.39,5,0.05,823.6,264.97,Cash on Delivery
+ORD-1895,2025-10-16,Consumer,West,Maharashtra,Furniture,Bookshelf,5010.1,2,0.0,10020.2,1226.2,UPI
+ORD-1896,2025-10-17,Corporate,North,Uttar Pradesh,Furniture,Sofa,20932.66,4,0.15,71171.04,-1433.21,Cash on Delivery
+ORD-1897,2025-10-17,Consumer,North,Delhi,Technology,Headphones,2527.86,5,0.05,12007.34,2958.46,Cash on Delivery
+ORD-1898,2025-10-19,Consumer,South,Kerala,Technology,Headphones,2557.19,1,0.05,2429.33,687.73,Credit Card
+ORD-1899,2025-10-20,Consumer,North,Punjab,Office Supplies,Whiteboard,1714.79,5,0.05,8145.25,1400.07,UPI
+ORD-1900,2025-10-20,Corporate,North,Punjab,Technology,Smartwatch,6128.01,3,0.0,18384.03,3997.48,Credit Card
+ORD-1901,2025-10-23,Corporate,South,Kerala,Technology,Printer,9111.49,1,0.0,9111.49,1138.65,UPI
+ORD-1902,2025-10-23,Corporate,South,Karnataka,Office Supplies,File Folder,184.52,2,0.0,369.04,134.93,Credit Card
+ORD-1903,2025-10-25,Home Office,East,Bihar,Office Supplies,Whiteboard,1793.66,4,0.0,7174.64,2183.81,UPI
+ORD-1904,2025-10-25,Home Office,East,Odisha,Furniture,Study Table,8045.76,3,0.0,24137.28,1449.12,Debit Card
+ORD-1905,2025-10-26,Consumer,South,Andhra Pradesh,Technology,Laptop,46802.31,4,0.0,187209.24,36198.1,Debit Card
+ORD-1906,2025-10-29,Home Office,South,Tamil Nadu,Office Supplies,Whiteboard,1715.3,4,0.1,6175.08,908.61,UPI
+ORD-1907,2025-10-30,Consumer,South,Karnataka,Office Supplies,Pen Box,258.15,2,0.15,438.85,114.61,Debit Card
+ORD-1908,2025-10-30,Corporate,South,Kerala,Office Supplies,Stapler,276.09,5,0.1,1242.4,274.2,UPI
+ORD-1909,2025-10-30,Consumer,West,Maharashtra,Technology,Smartphone,17991.21,1,0.1,16192.09,2361.63,Debit Card
+ORD-1910,2025-10-31,Corporate,West,Rajasthan,Technology,Smartwatch,5747.8,3,0.1,15519.06,3434.34,Debit Card
+ORD-1911,2025-11-01,Consumer,North,Delhi,Office Supplies,Stapler,273.27,2,0.05,519.21,103.31,UPI
+ORD-1912,2025-11-01,Consumer,West,Rajasthan,Technology,Smartwatch,5983.16,1,0.0,5983.16,1467.38,Net Banking
+ORD-1913,2025-11-02,Consumer,North,Uttar Pradesh,Furniture,Bookshelf,4953.84,2,0.3,6935.38,-1388.31,Credit Card
+ORD-1914,2025-11-02,Consumer,West,Rajasthan,Office Supplies,File Folder,188.02,3,0.05,535.86,147.63,UPI
+ORD-1915,2025-11-03,Consumer,South,Andhra Pradesh,Furniture,Office Chair,6281.46,4,0.1,22613.26,577.9,UPI
+ORD-1916,2025-11-03,Consumer,West,Maharashtra,Office Supplies,File Folder,176.5,2,0.05,335.35,82.49,UPI
+ORD-1917,2025-11-04,Corporate,South,Andhra Pradesh,Office Supplies,File Folder,179.02,3,0.3,375.94,16.57,UPI
+ORD-1918,2025-11-05,Home Office,South,Kerala,Technology,Printer,8652.96,1,0.0,8652.96,1060.81,UPI
+ORD-1919,2025-11-06,Corporate,South,Tamil Nadu,Office Supplies,Pen Box,269.03,5,0.05,1277.89,533.79,UPI
+ORD-1920,2025-11-06,Consumer,North,Uttar Pradesh,Office Supplies,Whiteboard,1749.8,3,0.0,5249.4,1177.1,UPI
+ORD-1921,2025-11-06,Consumer,South,Karnataka,Technology,Printer,9572.6,2,0.0,19145.2,2515.3,Credit Card
+ORD-1922,2025-11-06,Consumer,South,Andhra Pradesh,Office Supplies,Pen Box,263.3,3,0.05,750.41,281.42,Debit Card
+ORD-1923,2025-11-07,Consumer,South,Karnataka,Office Supplies,Whiteboard,1832.67,4,0.0,7330.68,1323.15,Cash on Delivery
+ORD-1924,2025-11-07,Consumer,South,Tamil Nadu,Technology,Smartphone,17795.44,1,0.1,16015.9,369.1,UPI
+ORD-1925,2025-11-08,Consumer,East,Bihar,Technology,Printer,8569.32,2,0.1,15424.78,-90.72,UPI
+ORD-1926,2025-11-08,Home Office,South,Karnataka,Technology,Smartphone,19341.9,4,0.0,77367.6,12416.97,UPI
+ORD-1927,2025-11-08,Home Office,North,Delhi,Furniture,Office Chair,6206.46,2,0.1,11171.63,365.96,Debit Card
+ORD-1928,2025-11-10,Corporate,South,Tamil Nadu,Office Supplies,Pen Box,230.0,1,0.0,230.0,90.51,Net Banking
+ORD-1929,2025-11-10,Corporate,South,Tamil Nadu,Technology,Laptop,47823.11,3,0.0,143469.33,30713.18,Debit Card
+ORD-1930,2025-11-12,Consumer,North,Delhi,Office Supplies,Stapler,316.23,3,0.05,901.26,188.88,UPI
+ORD-1931,2025-11-12,Corporate,South,Kerala,Technology,Headphones,2288.78,1,0.2,1831.02,207.0,Net Banking
+ORD-1932,2025-11-13,Consumer,North,Delhi,Technology,Printer,9273.27,3,0.0,27819.81,2732.58,UPI
+ORD-1933,2025-11-14,Consumer,West,Maharashtra,Technology,Smartphone,16920.97,5,0.05,80374.61,5026.74,UPI
+ORD-1934,2025-11-14,Corporate,West,Rajasthan,Office Supplies,Whiteboard,1782.41,3,0.0,5347.23,1244.75,Debit Card
+ORD-1935,2025-11-14,Consumer,West,Maharashtra,Technology,Printer,9276.27,1,0.1,8348.64,330.07,Credit Card
+ORD-1936,2025-11-14,Consumer,West,Gujarat,Office Supplies,File Folder,183.55,1,0.2,146.84,29.02,UPI
+ORD-1937,2025-11-14,Home Office,West,Rajasthan,Furniture,Office Chair,6506.06,2,0.0,13012.12,1768.42,Cash on Delivery
+ORD-1938,2025-11-15,Consumer,North,Punjab,Furniture,Study Table,7532.22,5,0.2,30128.88,-1290.5,UPI
+ORD-1939,2025-11-15,Corporate,West,Rajasthan,Furniture,Bookshelf,5811.1,1,0.2,4648.88,-153.65,Debit Card
+ORD-1940,2025-11-16,Consumer,South,Tamil Nadu,Office Supplies,Whiteboard,1832.48,4,0.0,7329.92,2279.26,UPI
+ORD-1941,2025-11-17,Consumer,South,Kerala,Furniture,Study Table,7777.33,2,0.15,13221.46,-0.02,UPI
+ORD-1942,2025-11-17,Consumer,West,Rajasthan,Office Supplies,Whiteboard,1650.95,1,0.0,1650.95,413.68,UPI
+ORD-1943,2025-11-21,Consumer,West,Gujarat,Office Supplies,Notebook Pack,423.79,3,0.0,1271.37,454.18,Cash on Delivery
+ORD-1944,2025-11-21,Corporate,North,Punjab,Technology,Headphones,2335.95,2,0.3,3270.33,368.7,Debit Card
+ORD-1945,2025-11-22,Consumer,South,Kerala,Technology,Smartphone,19540.25,2,0.0,39080.5,3596.28,UPI
+ORD-1946,2025-11-22,Home Office,South,Karnataka,Office Supplies,Notebook Pack,457.57,1,0.05,434.69,128.62,UPI
+ORD-1947,2025-11-23,Home Office,South,Karnataka,Office Supplies,Pen Box,264.84,3,0.15,675.34,210.55,Debit Card
+ORD-1948,2025-11-23,Consumer,West,Maharashtra,Technology,Laptop,42877.72,1,0.1,38589.95,6049.56,Credit Card
+ORD-1949,2025-11-23,Home Office,South,Kerala,Technology,Printer,8451.06,1,0.0,8451.06,932.76,Debit Card
+ORD-1950,2025-11-23,Consumer,South,Andhra Pradesh,Furniture,Study Table,7781.97,3,0.15,19844.02,-538.97,Cash on Delivery
+ORD-1951,2025-11-25,Consumer,South,Tamil Nadu,Technology,Smartphone,17173.87,2,0.1,30912.97,864.22,Net Banking
+ORD-1952,2025-11-26,Consumer,North,Delhi,Technology,Laptop,40790.96,5,0.1,183559.32,18851.83,Credit Card
+ORD-1953,2025-11-26,Consumer,South,Tamil Nadu,Office Supplies,Pen Box,273.71,4,0.1,985.36,348.87,Debit Card
+ORD-1954,2025-11-27,Consumer,North,Uttar Pradesh,Office Supplies,File Folder,191.59,4,0.0,766.36,271.31,UPI
+ORD-1955,2025-11-28,Corporate,East,Bihar,Office Supplies,File Folder,171.31,4,0.0,685.24,254.49,Cash on Delivery
+ORD-1956,2025-11-30,Consumer,North,Punjab,Office Supplies,File Folder,170.31,2,0.15,289.53,72.32,Cash on Delivery
+ORD-1957,2025-11-30,Corporate,West,Maharashtra,Office Supplies,Stapler,314.18,1,0.05,298.47,78.53,Debit Card
+ORD-1958,2025-12-01,Consumer,West,Maharashtra,Technology,Smartwatch,6123.2,3,0.0,18369.6,4047.27,UPI
+ORD-1959,2025-12-01,Consumer,South,Andhra Pradesh,Office Supplies,File Folder,183.69,4,0.15,624.55,116.2,Credit Card
+ORD-1960,2025-12-01,Corporate,North,Punjab,Technology,Smartphone,19627.31,5,0.0,98136.55,12846.36,Credit Card
+ORD-1961,2025-12-02,Consumer,East,Bihar,Office Supplies,Stapler,277.98,5,0.2,1111.92,159.53,Cash on Delivery
+ORD-1962,2025-12-02,Corporate,South,Tamil Nadu,Technology,Smartwatch,6013.52,1,0.15,5111.49,669.27,Debit Card
+ORD-1963,2025-12-02,Home Office,South,Karnataka,Office Supplies,Stapler,273.83,2,0.0,547.66,160.9,Debit Card
+ORD-1964,2025-12-03,Home Office,North,Uttar Pradesh,Technology,Printer,8655.51,4,0.3,24235.43,-2264.3,UPI
+ORD-1965,2025-12-03,Corporate,North,Delhi,Office Supplies,Whiteboard,1817.21,1,0.1,1635.49,211.83,UPI
+ORD-1966,2025-12-03,Home Office,South,Karnataka,Office Supplies,Notebook Pack,411.08,3,0.0,1233.24,458.7,Cash on Delivery
+ORD-1967,2025-12-04,Corporate,South,Kerala,Technology,Headphones,2425.72,3,0.2,5821.73,812.57,Debit Card
+ORD-1968,2025-12-04,Consumer,East,Bihar,Technology,Headphones,2573.71,4,0.0,10294.84,2935.65,UPI
+ORD-1969,2025-12-06,Home Office,South,Tamil Nadu,Technology,Smartphone,16744.71,3,0.1,45210.72,199.28,UPI
+ORD-1970,2025-12-06,Consumer,South,Karnataka,Office Supplies,Stapler,280.4,2,0.1,504.72,111.83,Debit Card
+ORD-1971,2025-12-07,Consumer,West,Gujarat,Office Supplies,Stapler,318.26,1,0.0,318.26,76.39,Debit Card
+ORD-1972,2025-12-07,Corporate,South,Andhra Pradesh,Technology,Printer,9778.46,1,0.2,7822.77,-176.24,UPI
+ORD-1973,2025-12-07,Corporate,West,Gujarat,Technology,Headphones,2454.08,3,0.0,7362.24,2283.81,Debit Card
+ORD-1974,2025-12-08,Corporate,South,Andhra Pradesh,Furniture,Sofa,22091.77,4,0.15,75112.02,1462.27,UPI
+ORD-1975,2025-12-08,Home Office,West,Maharashtra,Technology,Smartwatch,6074.41,1,0.15,5163.25,656.03,Debit Card
+ORD-1976,2025-12-08,Corporate,East,West Bengal,Technology,Printer,8577.14,2,0.05,16296.57,324.56,Credit Card
+ORD-1977,2025-12-09,Corporate,South,Kerala,Furniture,Bookshelf,5166.42,2,0.05,9816.2,789.41,UPI
+ORD-1978,2025-12-10,Consumer,South,Karnataka,Technology,Laptop,43584.19,2,0.05,82809.96,13745.71,UPI
+ORD-1979,2025-12-10,Home Office,North,Delhi,Office Supplies,Whiteboard,1856.36,1,0.05,1763.54,325.17,UPI
+ORD-1980,2025-12-11,Consumer,West,Rajasthan,Office Supplies,Pen Box,232.49,2,0.0,464.98,191.03,Credit Card
+ORD-1981,2025-12-11,Consumer,East,Bihar,Technology,Smartwatch,5696.42,5,0.05,27057.99,5013.44,Debit Card
+ORD-1982,2025-12-12,Consumer,East,Bihar,Furniture,Sofa,20803.55,2,0.0,41607.1,3436.23,Credit Card
+ORD-1983,2025-12-13,Consumer,West,Rajasthan,Technology,Smartphone,17200.88,1,0.1,15480.79,408.0,Debit Card
+ORD-1984,2025-12-16,Corporate,North,Delhi,Furniture,Bookshelf,5951.94,5,0.15,25295.74,1161.38,Cash on Delivery
+ORD-1985,2025-12-16,Home Office,South,Kerala,Office Supplies,Whiteboard,1726.53,4,0.2,5524.9,707.68,Credit Card
+ORD-1986,2025-12-16,Consumer,West,Rajasthan,Technology,Laptop,46458.79,2,0.0,92917.58,14978.41,Cash on Delivery
+ORD-1987,2025-12-16,Home Office,North,Punjab,Furniture,Study Table,7829.35,1,0.0,7829.35,927.21,UPI
+ORD-1988,2025-12-18,Corporate,East,Bihar,Office Supplies,Pen Box,251.15,4,0.0,1004.6,413.55,Net Banking
+ORD-1989,2025-12-19,Consumer,North,Delhi,Technology,Smartphone,16555.55,3,0.0,49666.65,9843.23,UPI
+ORD-1990,2025-12-21,Consumer,West,Maharashtra,Office Supplies,Whiteboard,1859.52,4,0.0,7438.08,1552.08,UPI
+ORD-1991,2025-12-23,Corporate,East,Odisha,Office Supplies,Stapler,274.85,5,0.2,1099.4,119.87,Credit Card
+ORD-1992,2025-12-24,Home Office,West,Maharashtra,Office Supplies,Whiteboard,1620.36,3,0.0,4861.08,1160.61,UPI
+ORD-1993,2025-12-25,Consumer,West,Gujarat,Office Supplies,File Folder,176.27,1,0.2,141.02,21.71,Debit Card
+ORD-1994,2025-12-25,Consumer,North,Punjab,Technology,Headphones,2668.81,5,0.0,13344.05,3988.1,Debit Card
+ORD-1995,2025-12-27,Home Office,West,Maharashtra,Technology,Laptop,41729.44,4,0.15,141880.1,18054.97,UPI
+ORD-1996,2025-12-28,Home Office,North,Delhi,Furniture,Study Table,8575.95,4,0.2,27443.04,-640.74,Credit Card
+ORD-1997,2025-12-28,Consumer,East,West Bengal,Office Supplies,Notebook Pack,464.27,5,0.15,1973.15,498.74,Net Banking
+ORD-1998,2025-12-28,Corporate,East,Bihar,Office Supplies,Notebook Pack,481.99,5,0.05,2289.45,649.61,Credit Card
+ORD-1999,2025-12-29,Consumer,South,Kerala,Office Supplies,Notebook Pack,447.71,3,0.15,1141.66,260.4,Credit Card
+ORD-2000,2025-12-30,Consumer,West,Gujarat,Furniture,Study Table,8653.34,3,0.2,20768.02,-1629.69,Debit Card
