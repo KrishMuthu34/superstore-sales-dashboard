@@ -17,7 +17,7 @@ Tableau Public, CSV
 - Region and state-wise sales
 - Category-wise sales and profit
 - Top 10 products
-- Discount vs profit analysis
+- State-wise Map
 
 ## Key Insights
 - [Insight 1 with number]
